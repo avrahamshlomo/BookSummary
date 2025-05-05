@@ -1,0 +1,1128 @@
+THE NINE LAWS OF GOD 
+Out of nothing, nature makes something.
+First there is hard rock planet; then there is life, lots of it. First barren hills; 
+then brooks with fish and cattails and red-winged blackbirds. First an acorn; then an oak tree forest.
+I'd like to be able to do that. First a hunk of metal; then a robot. First some 
+wires; then a mind. First some old genes; then a dinosaur.
+How do you make something from nothing? Although nature knows this 
+trick, we haven't learned much just by watching her. We have learned more by our failures in creating complexity and by combining these lessons with small successes in imitating and understanding natural systems. So from the frontiers of computer science, and the edges of biological research, and the odd corners of interdisciplinary experimentation, I have compiled The Nine Laws of God governing the incubation of somethings from nothing: 
+●     Distribute being 
+●     Control from the bottom up 
+●     Cultivate increasing returns 
+●     Grow by chunking 
+●     Maximize the fringes 
+●     Honor your errors 
+●     Pursue no optima; have multiple goals 
+●     Seek persistent disequilibrium 
+●     Change changes itself. These nine laws are the organizing principles that can be found operating in 
+systems as diverse as biological evolution and SimCity. Of course I am not suggesting that they are the only laws needed to make something from nothing; but out of the many observations accumulating in the science of complexity, these principles are the broadest, crispest, and most representative generalities. I believe that one can go pretty far as a god while sticking to these nine rules.
+Distribute being. The spirit of a beehive, the behavior of an economy, the 
+thinking of a supercomputer, and the life in me are distributed over a 
+multitude of smaller units (which themselves may be distributed). When the sum of the parts can add up to more than the parts, then that extra being (that something from nothing) is distributed among the parts. Whenever we find something from nothing, we find it arising from a field of many interacting smaller pieces. All the mysteries we find most interesting-life, intelligence, evolution-are found in the soil of large distributed systems. 
+Control from the bottom up. When everything is connected to everything 
+in a distributed network, everything happens at once. When everything 
+happens at once, wide and fast moving problems simply route around any central authority. Therefore overall governance must arise from the most humble interdependent acts done locally in parallel, and not from a central command. A mob can steer itself, and in the territory of rapid, massive, and heterogeneous change, only a mob can steer. To get something from nothing, control must rest at the bottom within simplicity.
+Cultivate increasing returns. Each time you use an idea, a language, or a 
+skill you strengthen it, reinforce it, and make it more likely to be used again. 
+That's known as positive feedback or snowballing. Success breeds success. In the Gospels, this principle of social dynamics is known as "To those who have, more will be given." Anything which alters its environment to increase production of itself is playing the game of increasing returns. And all large, sustaining systems play the game. The law operates in economics, biology, computer science, and human psychology. Life on Earth alters Earth to beget more life. Confidence builds confidence. Order generates more order. Them that has, gets. 
+Grow by chunking. The only way to make a complex system that works is 
+to begin with a simple system that works. Attempts to instantly install highly 
+complex organization-such as intelligence or a market economy-without growing it, inevitably lead to failure. To assemble a prairie takes time-even if you have all the pieces. Time is needed to let each part test itself against all the others. Complexity is created, then, by assembling it incrementally from simple modules that can operate independently.
+Maximize the fringes. In heterogeneity is creation of the world. A uniform 
+entity must adapt to the world by occasional earth-shattering revolutions, 
+one of which is sure to kill it. A diverse heterogeneous entity, on the other hand, can adapt to the world in a thousand daily minirevolutions, staying in a state of permanent, but never fatal, churning. Diversity favors remote 
+borders, the outskirts, hidden corners, moments of chaos, and isolated clusters. In economic, ecological, evolutionary, and institutional models, a healthy fringe speeds adaptation, increases resilience, and is almost always the source of innovations.
+Honor your errors. A trick will only work for a while, until everyone else is 
+doing it. To advance from the ordinary requires a new game, or a new 
+territory. But the process of going outside the conventional method, game, or territory is indistinguishable from error. Even the most brilliant act of human genius, in the final analysis, is an act of trial and error. "To be an Error and to be Cast out is a part of God's Design," wrote the visionary poet William Blake. Error, whether random or deliberate, must become an integral part of any process of creation. Evolution can be thought of as systematic error management.
+Pursue no optima; have multiple goals. Simple machines can be 
+efficient, but complex adaptive machinery cannot be. A complicated 
+structure has many masters and none of them can be served exclusively. Rather than strive for optimization of any function, a large system can only survive by "satisficing" (making "good enough") a multitude of functions. For instance, an adaptive system must trade off between exploiting a known path of success (optimizing a current strategy), or diverting resources to exploring new paths (thereby wasting energy trying less efficient methods). So vast are the mingled drives in any complex entity that it is impossible to unravel the actual causes of its survival. Survival is a many-pointed goal. Most living organisms are so many-pointed they are blunt variations that happen to work, rather than precise renditions of proteins, genes, and organs. In creating something from nothing, forget elegance; if it works, it's beautiful.
+Seek persistent disequilibrium. Neither constancy nor relentless change 
+will support a creation. A good creation, like good jazz, must balance the 
+stable formula with frequent out-of-kilter notes. Equilibrium is death. Yet unless a system stabilizes to an equilibrium point, it is no better than an explosion and just as soon dead. A Nothing, then, is both equilibrium and disequilibrium. A Something is persistent disequilibrium-a continuous state of surfing forever on the edge between never stopping but never falling. Homing in on that liquid threshold is the still mysterious holy grail of creation and the quest of all amateur gods.
+Change changes itself. Change can be structured. This is what large 
+complex systems do: they coordinate change. When extremely large 
+systems are built up out of complicated systems, then each system begins to influence and ultimately change the organizations of other systems. That is, if the rules of the game are composed from the bottom up, then it is likely that interacting forces at the bottom level will alter the rules of the game as it progresses. Over time, the rules for change get changed themselves. Evolution-as used in everyday speech-is about how an entity is changed over time. Deeper evolution-as it might be formally defined-is 
+about how the rules for changing entities over time change over time. To get the most out of nothing, you need to have self-changing rules.
+
+These nine principles underpin the awesome workings of prairies, 
+flamingoes, cedar forests, eyeballs, natural selection in geological time, and 
+the unfolding of a baby elephant from a tiny seed of elephant sperm and egg.
+These same principles of bio-logic are now being implanted in computer 
+chips, electronic communication networks, robot modules, pharmaceutical searches, software design, and corporate management, in order that these artificial systems may overcome their own complexity.
+When the Technos is enlivened by Bios we get artifacts that can adapt, 
+learn, and evolve. When our technology adapts, learns, and evolves then we will have a neo-biological civilization.
+All complex things taken together form an unbroken continuum between the 
+extremes of stark clockwork gears and ornate natural wilderness. The hallmark of the industrial age has been its exaltation of mechanical design. The hallmark of a neo-biological civilization is that it returns the designs of its creations toward the organic, again. But unlike earlier human societies that relied on found biological solutions-herbal medicines, animal proteins, natural dyes, and the like-neo-biological culture welds engineered technology and unrestrained nature until the two become indistinguishable, as unimaginable as that may first seem.
+The intensely biological nature of the coming culture derives from five 
+influences:
+●     Despite the increasing technization of our world, organic life-both wild and domesticated-will continue to be the prime infrastructure of human experience on the global scale. 
+●     Machines will become more biological in character. 
+●     Technological networks will make human culture even more ecological and evolutionary. 
+●     Engineered biology and biotechnology will eclipse the importance of mechanical technology. 
+●     Biological ways will be revered as ideal ways. 
+In the coming neo-biological era, all that we both rely on and fear will be 
+more born than made. We now have computer viruses, neural networks, Biosphere 2, gene therapy, and smart cards-all humanly constructed artifacts that bind mechanical and biological processes. Future bionic hybrids will be more confusing, more pervasive, and more powerful. I imagine there might be a world of mutating buildings, living silicon polymers, software programs evolving offline, adaptable cars, rooms stuffed with coevolutionary furniture, gnatbots for cleaning, manufactured biological viruses that cure your illnesses, neural jacks, cyborgian body parts, designer food crops, simulated personalities, and a vast ecology of computing devices in constant flux.
+The river of life-at least its liquid logic-flows through it all.
+We should not be surprised that life, having subjugated the bulk of inert 
+matter on Earth, would go on to subjugate technology, and bring it also under its reign of constant evolution, perpetual novelty, and an agenda out of our control. Even without the control we must surrender, a neo-biological technology is far more rewarding than a world of clocks, gears, and predictable simplicity.
+As complex as things are today, everything will be more complex tomorrow. 
+The scientists and projects reported here have been concerned with harnessing the laws of design so that order can emerge from chaos, so that organized complexity can be kept from unraveling into unorganized complications, and so that something can be made from nothing.
+Acknowledgements... 
+  
+ 
+Out of Control
+Hardly an idea in this volume is mine alone. In addition to the books and 
+papers annotated in my bibliography, the concepts I present here have 
+largely been condensed, paraphrased, or quoted from conversations, correspondence and lengthy interviews with the following people. Each, without exception, was extremely generous with his time and patient with my endless questions. They are, of course, not responsible for my idiosyncratic interpretation of their ideas. Some of the interviewees offered valuable corrections and comments to the work in progress. In addition, those indicated by asterisk were kind enough to review portions of the final manuscript. Thank you. 
+Ralph Abraham
+David Ackley
+Ormond Aebi
+John Allen
+Noberto Alvarez
+Robert Axelrod
+Howard Baetjer
+Will Baker
+John Perry Barlow
+Joseph Bates
+Mark Bedau
+Russell Brand
+Stewart Brand*
+Jim Brooks
+Rod Brooks
+Amy Bruckman
+Tony Burgess*
+Arthur Burks
+L.G. Callahan
+William Calvin
+David Campbell
+Peter Cariani
+Mike Cass
+David Chaum
+Steve Cisler
+Michael Cohen
+Robert Collins
+Michael ConradLloyd Gomez
+Steven Jay Gould
+Ralph Guggenheim
+Jeff Haas
+Stuart Hameroff
+Dan Harmony
+Phil Hawes
+Neal Hicks
+Danny Hillis*
+Carl Hodges
+Malone Hodges
+Douglas Hofstadter
+John Holland*
+John Hopfield
+Eric Hughes
+David Jefferson
+Bill Jordan
+Gerald Joyce
+Ted Kaehler
+James Kalin
+Mitch Kapor
+Ken Karakotsio
+Stuart Kauffman*
+Alan Kaufman
+Ed Knapp
+Barry Kort
+John Koza
+Bob LambertTed Nelson
+Tim Oren
+Norm Packard
+Steve Packard
+John Patton
+Mark Pauline
+Jim Pelkey
+Stuart Pimm*
+Charlie Plott
+Przemyslaw Prusinkiewcz
+Steen Rasmussen
+Tom Ray
+Mitchel Resnick
+Craig Reynolds
+Howard Rheingold*
+David Rogers
+Rudy Rucker
+Jonathan Schull
+Ted Schultz
+Barry Silverman
+Herbert Simon
+Karl Sims*
+Peter Sprague
+Bruce Sterling*
+Steve Strassman
+Chuck Taylor
+Mark Thompson
+Hardin TibbsNeale Cosby
+George Cowan
+Brad Cox
+Jim Crutchfield
+Paul Davies
+Richard Dawkins
+Bill Dempster
+Brad de Graf
+Daniel Dennett*
+Jamie Dinkelacker
+Jim DrakeDavid Lane
+Chris Langton*
+Jaron Lanier
+William Latham
+Don Lavoie
+Mike Leibhold
+Linda Leigh
+Steven Levy
+Kristian Lindgren
+Seth Lloyd
+James LovelockMark Tilden
+Ralph Toms
+Joe Traub
+Micheal Travers
+Dean Tribble
+Roy Valdes
+Francisco Varela
+Michael Wahrman
+Roy Walford
+Gary Ware
+Peter Warshall
+  
+ 
+Out of Control
+Ahmadjian, Vernon. Symbiosis: An Introduction to Biological Associations. 
+Hanover, 1986. 
+A comprehensive text on symbiosis which is clear and crammed with insights. 
+Alberch, Pere. "Orderly Monsters: Evidence for internal constraint in development and evolution." In The construction of organisms: Opportunity and constraint in the evolution of organic form., Thomas, R. D. K. and W. E. Reif, eds. 
+One of the most amazing papers I have ever read. Explains why monstrosities in living creatures are so similar and "orderly" given all possibilities. 
+Aldersy-Williams, Hugh. "A solid future for smart fluids." New Scientist, 17 March 1990. 
+Fluids and gel that change their state when signaled. Engineers can use this response to make them "smart." 
+Allen, Thomas B. War Games: The Secret World of the Creators, Players, and Policy Makers Rehearsing World War III Today. McGraw-Hill, 1981. 
+Fascinating history and insider's view of the large-scale simulations which the U.S. military agencies run to decipher the life-and-death complexity of war. 
+Allen, T. F. H., and Thomas B. Starr. Hierarchy: Perspectives for Ecological Complexity. University of Chicago Press, 1982. 
+Very ambitious book, but a bit soft in its arguments and clarity. The main point: patterns in ecological systems can only be perceived if viewed or measured at the appropriate scale. 
+Allen, John. Biosphere 2: The Human Experience. Penguin, 1991. 
+Coffee table book on the making of Biosphere 2 by its original visionary. Good history on how the idea arose and was tried out. It covers the experiment until shortly before it "closed." 
+Allman, William F. Apprentices of Wonder: Inside the Neural Network Revolution. Bantam Books, 1989. 
+Neural networks are the paramount example of connectionism and bottom-up control. A light journalistic treatment of the major players in the field; a good intro. 
+Amato, Ivan. "Capturing Chemical Evolution in a Jar." Science, 255; 14 
+February 1992. 
+Self-replicating RNA which can generate mutant forms. 
+Amato, Ivan. "Animating the Material World." Science, 255; 17 January 1992. 
+Brief report on various experiments to put smartness into inanimate materials. 
+Anderson, Philip W., Kenneth J. Arrow, and David Pines. The Economy as an Evolving Complex System. Addison-Wesley, 1988. 
+A landmark series of papers in the esoteric realm of physics, math, computer science, and economics. Does a great job in reinventing how we think of the economy. The central shift is away from classical equilibrium. For lay readers the summary is in English and newsworthy. 
+Aspray, William and Arthur Burks, eds. Papers of John von Neumann on Computers and Computer Theory. MIT Press, 1967. 
+If you are math-challenged (as I am), you need only read the fine introduction and summary by Burks. 
+Axelrod, Robert. The Evolution of Cooperation. Basic Books, 1984. 
+Lucid account of how Prisoner's Dilemma and other open-ended games can illuminate political and social thought. 
+Badler, Norman I., Brian A. Barsky, and David Zeltzer, eds. Making Them Move: Mechanics, Control, and Animation of Articulated Figures. Morgan Kaufmann Publishers, 1991. 
+To best exploit the technical details outlined in this book, you'll need the accompanying video of experimental figures trying to move. Some move quite well. 
+Bajema, Carl Jay, ed. Artificial Selection and the Development of Evolutionary Theory. Hutchinson Ross Publishing, 1982. 
+A banquet of benchmark papers on what artificial selection (breeding) has to say about natural selection. What is most noticeable is how paltry the feast is. 
+Basalla, George. The Evolution of Technology. Cambridge University Press, 1988. 
+Makes the case (with fascinating examples) that all innovation is incremental and not abrupt. Emphasizes the importance of novelty in technological change. 
+Bass, Thomas A. The Eudaemonic Pie. Houghton Mifflin, 1985. 
+The bizarre true story of how a California hippie commune of physicists and computer nerds beat Las Vegas using chaos theory. Addresses the problem of time-series predictions. An overlooked great read. 
+------. "Road to Ruin." Discover, May 1992. 
+Story about Joel Cohen's expansion of the Braess paradox--that adding 
+more roads to a network may slow it down. 
+Bateson, Gregory. Steps to an Ecology of Mind. Ballentine, 1972. 
+A great book about the parallels between evolution and the mind. Of particular interest is the chapter on "The Role of Somatic Change in Evolution." 
+------. Mind and Nature. Dutton, 1979. 
+Bateson stresses and stretches the similarities between mind and evolution in nature. 
+Bateson, Mary Catherine. Our Own Metaphor. Smithsonian, 1972. 
+Mary Catherine Bateson's personal account of an informal conference on evolution, progress, and learning in human adaptation organized by her father, Gregory Bateson. The meeting was held to deal with the role of conscious purpose in such complex systems. Every conference should have such a document. 
+------. With a Daughter's Eye. William Morrow, 1984. 
+A memoir of Margaret Mead and Gregory Bateson that is more than a memoir. Written by daughter Mary Catherine, who is an intellectual of equal caliber to her parents, this is a book of cybernetic family stories. 
+Bateson, Gregory and Mary Catherine Bateson. Angels Fear: Toward an Epistemology of the Sacred. Macmillian, 1987. 
+Interwoven between the final writings of Gregory Bateson--completed posthumously by his daughter Mary Catherine--are dialogues between father and daughter that convey Gregory's deep ideas of sacrament, communication, intelligence, and being. 
+Baudrillard, Jean. Simulations. Semiotext(e), Inc., 1983. 
+Short, very French, very dense, very poetic, very impenetrable, and somewhat useful in that he attempts to wring some meaning out of simulations. 
+Beaudry, Amber A., and Gerald F. Joyce. "Directed Evolution of an RNA Enzyme." Science, 257; 31 July 1992. 
+Elegant experimental results of directed breeding of RNA molecules. 
+Bedau, Mark A. "Measurement of Evolutionary Activity, Teleology, and Life." In Artificial Life II, Langton, Christopher G., ed. Addison-Wesley, 1990. 
+A most intriguing attempt to quantify direction in evolutionary activity. 
+------. "Naturalism and Teleology." In Naturalism: A Critical Appraisal, Wagner, Steven and Richard Warner, eds. University of Notre Dame Press, 1993. 
+Can natural systems have purpose? Yes. 
+Bedau, Mark A., Alan Bahm, and Martin Zwick. "The Evolution of Diversity." 
+1992. 
+Offers a metric for measuring diversity in an evolutionary system. 
+Bell, Gordon. "Ultracomputers: A Teraflop Before Its Time." Science, 256; 3 April 1992. 
+A bet whether parallel computers will beat serial computers in the race for power. 
+Bergson, Henri. Creative Evolution. Henry Holt, 1911. 
+A classic of philosophy about the idea that evolution proceeds by some vital force. 
+Berry, F. Clifton. "Re-creating History: The Battle of 73 Easting." National Defense, November 1991. 
+Blow-by-blow account of the pivotal Gulf War battle that has been recreated as a Pentagon simulation. 
+Bertalanffy, Ludwig von. General System Theory. George Braziller, 1968. For many years this was the cybernetic bible. 
+It's still one of the few books on whole systems or "systems in general." But it seems to me to be vague even in the places I agree with. And Bertalanffy's signature idea--equifinality--I think is wrong, or at least incomplete. 
+Biosphere 2 Scientific Advisory Committee. "Report to the Chairman, Space Biosphere Ventures." Space Biosphere Ventures, 1992, 
+Evaluates the validity and quality of Biosphere 2's first nine months from a scientific viewpoint. 
+Bolter, Jay David. Writing Space: The Computer, Hypertext, and the History of Writing. Lawrence Erlbaum Associates, 1991. 
+A marvelous, overlooked little treasure that outlines the semiotic meaning of hypertext. The book is accompanied by an expanded version in hypertext for the Macintosh. I consider it a seminal work in "network culture." 
+Bonner, John Tyler. The Evolution of Complexity, by Means of Natural Selection. Princeton University Press, 1988. 
+A pretty good argument that evolution evolves toward complexity. 
+Botkin, Daniel B. Discordant Harmonies: A New Ecology for the Twenty-First Century. Oxford University Press, 1990. 
+Essays in natural history by an ecologist who has a fresh view of nature as a disequilibrial system. 
+Bourbon, W. Thomas, and Williams T. Powers. "Purposive Behavior: A tutorial with data." Unpublished, 1988. 
+An intriguing claim that much behavior is not "caused" but emanates from 
+emergent internal purposes. Illustrated with a simple experiment. 
+Bowler, Peter J. The Eclipse of Darwinism: Anti-Darwinian Evolution Theories in the Decades around 1900. The John Hopkins University Press, 1983. 
+This history serves as an excellent primer on alternative scientific theories to strict neodarwinism. 
+------. The Invention of Progress. Basil Blackwell, 1989. 
+A fascinating scholarly examination of how during the Victorian era evolutionary theory initially created a notion of progress, a legacy only now eroding. 
+Braitenberg, Valentino. Vehicles: Experiments in Synthetic Psychology. The MIT Press, 1984. 
+Shows how very simple circuits can produce the appearance of complicated behaviors and movement. The experiments were eventually implemented in tiny model cars. 
+Brand, Stewart. II Cybernetic Frontiers. Random House, 1974. 
+A curious, small book that is pleasantly two-faced. One-half is the first published report on computer hackers playing computer games, and the other is Gregory Bateson talking about evolution and cybernetics. 
+------. The Media Lab: Inventing the Future at MIT. Viking, 1987. 
+Although about media future, there are enough gems of insight about the future of interconnectivity to keep this rich book ahead of the curve. 
+Bratley, Paul, Bennet L. Fox, and Linus E. Schrage. A Guide to Simulation. Springer-Verlag, 1987. 
+The best overview of the role and dynamics of simulations in theory and practice. 
+Briggs, John. Turbulent Mirror. Harper & Row, 1989. 
+Goes from the theory of chaos to the "science of wholeness." Pretty good introduction to the strange behavior of complex systems, with many wonderful pictures and diagrams. Emphasizes the turbulent chaotic side, rather than the self-organizing side of wholeness. 
+Brooks, Daniel, and R. E. O. Wiley. Evolution as Entropy. The University of Chicago Press, 1986. 
+An important book although I have read only a little of it. I wish I had a more technical and mathematical background to plunge deeper into it and to appreciate its attempt to be a "unified theory of biology." 
+Brooks, Rodney A. "Elephants Don't Play Chess." Robotics and Autonomous Systems, 6; 1990. 
+Instead elephants wander around doing things in the real world. This paper summarizes Brooks's lab's attempts (about eight robots so far) to make intelligence situated in the real physical environment. 
+------. "Intelligence without representation." Artificial Intelligence, 47; 1991. 
+Treats the evolutionary aspects of bottom-up control in robots. 
+------. "New Approaches to Robotics." Science, 253; 1991. 
+Summary of Brooks's subsumption architecture for robots. 
+Brooks, Rodney A., and Anita Flynn. "Fast, Cheap and Out of Control: A 
+Robot Invasion of the Solar System." Journal of The British Interplanetary Society, 42; 1989. 
+About "invading a planet with millions of tiny robots." This is the source of my book title. 
+Brooks, Rodney A., Pattie Maes, Maja J. Mataric, and Grinell More. "Lunar Base Construction Robots." IROS, IEEE International Workshop on Intelligence Robots & Systems, 1990. 
+Proposal for a swarm of minibulldozers, saturated with "collective intelligence." 
+Bruckman, Amy. "Identity Workshop: Emergent Social and Psychological Phenomena in Text-Based Virtual Reality." Unpublished, 1992. 
+Excellent study of the new sociology of teenage obsessives building and playing online MUDs. 
+Buss, Leo W. The Evolution of Individuality. Princeton University Press, 1987. 
+Difficult book to grasp. The introductory and summary chapters are clear and fascinating, and probably important in understanding hierarchical evolution. Buss is onto something vital: that the individual is not the only unit of selection in evolution. 
+Butler, Samuel. "Darwin Among the Machines." In Canterbury Settlement. AMS Press, 1923. 
+An essay written in 1863, by the author of "Erewhon," suggesting the biological nature of machines. 
+------. Evolution, Old and New. AMS Press, 1968. 
+An early (1879), but still persuasive, philosophical rant against Darwinism penned by an early supporter of Darwin who renegaded into a fierce anti-Darwinian stance. 
+Cairns-Smith, A.G. Seven Clues to the Origin of Life. Cambridge University Press, 1985. 
+The freshest book to date on the puzzle of the origin of life. Written as a scientific detective story. Digests in lay terms his more technical treatment in Genetic Takeover. 
+Card, Orson Scott. Ender's Game. Tom Doherty Associates, 1985. A science fiction novel about kids trained to fight real wars while playing 
+simulated war games. 
+Casdagli, Martin. "Nonlinear Forecasting, Chaos and Statistics." In Nonlinear Modeling and Forecasting, Casdagli, M., and S. Eubank, eds. Addison-Wesley, 1992. 
+Some heavy-duty algorithms for extracting order from irregularity. 
+Cellier, Francois E. Progress in Modelling and Simulation. Academic Press, 1982. 
+Deals with the practical problems of computers modeling ill-defined systems. 
+Chapuis, Alfred. Automata: A Historical and Technological Study. B. T. Batsford, 1958. 
+Amazing details of amazing clockwork automatons in history, both European and Asian. Can be thought of as a catalog of early attempts at artificial life. 
+Chaum, David. "Security Without Identification: Transaction Systems to Make Big Brother Obsolete." Communications of the ACM, 28, 10; October 1985. 
+Highly detailed explanation of how an ID-less electronic money system works. Very readable and visionary. A revised version is even clearer. Worth seeking out. 
+Cherfas, Jeremy. "The ocean in a box." New Scientist, 3 March 1988. 
+Journalistic report on Walter Adey's synthetic coral reefs. 
+Cipra, Barry. "In Math, Less Is More--Up to a Point." Science, 250; 23 November 1990. 
+Report on Hwang and Du's proof of shortening a network by adding more nodes. 
+Clearwater, Scott H., Bernardo A. Huberman, and Tad Hogg. "Cooperative Solution of Constraint Satisfaction Problems." Science, 254; 22 November 1991. 
+Pioneer work on cooperative problem solving. Tells how managing "hints" for a swarm of cooperating agents trying to solve a problem is vital to the agents' success. 
+Cohen, Frederick B. A Short Course on Computer Viruses. ASP Press, 1990. 
+The scoop from the guy who coined the term "computer virus." 
+Cole, H. S. D., et al. Models of Doom. Universe Books, 1973. 
+A critique of the model/book "Limits to Growth" done by an interdisciplinry team at Sussex University in England. 
+Colinvaux, Paul. Why Big Fierce Animals Are Rare. Princeton University Press, 1978. 
+Pure pleasure. Wonderful prose in a short book on the intricacies and complexities of ecological relationships. Based on the author's own naturalist 
+experiences. Seeks to extract ecological principles. Best book I know of about the cybernetic connectiveness of ecological systems. 
+Conrad, Michael, and H. H. Pattee. "Evolution Experiments with an Artificial Ecosystem." Journal of Theoretical Biology, 28; 1970. 
+One of the earliest experiments in modeling coevolutionary behavior on a computer. 
+Conrad, Michael. Adaptability: The Significance of Variability from Molecule to Ecosystem. Plenum Press, 1983. 
+A good try at describing adaptation in broad terms across many systems. 
+------. "The brain-machine disanalogy." Biosystems, 22; 1989. 
+Argues that no machine using present day organization or materials could pass the Turing Test. In other words, human-type intelligence will only come with human-type brains. 
+------. "Physics and Biology: Towards a Unified Model." Applied Mathematics and Computation, 32; 1989. 
+I verge on understanding this short paper; I think there's a good idea here. 
+Cook, Theodore Andre. The Curves of Life. Dover, 1914. 
+The self-organizing power of living spirals, in pictures. 
+Crutchfield, James P. "Semantics and Thermodynamics." In Nonlinear Modeling and Forecasting, Casdagli, M., and S. Eubank, eds. Addison-Wesley, 1992. 
+Further work on an automatic method for extracting a mathematical model from a set of data over time. 
+Culotta, Elizabeth. "Forecasting the Global AIDS Epidemic." Science, 253; 23 August 1991. 
+Various studies take the same problem, same data, and get wildly different models. Good example of the problems inherent in simulations. 
+------. "Forcing the Evolution of an RNA Enzyme in the Test Tube." Science, 257; 31 July 1992. 
+Nice summary of Gerald Joyce's work. 
+Dadant & Sons, eds. The Hive and the Honey Bee. Dadant & Sons, 1946. 
+Bees are probably the most studied of insects. This fat book offers practical management tips for the distributed organism of bees and their hives. 
+Darwin, Charles. The Origin of Species. Collier Books, 1872. 
+The fountainhead of all books on evolution. Darwinism reigns in large part because this book is so full of details, supporting evidence, and persuasive arguments, all so well written, that other theories pale in comparison. Davies, Paul. "A new science of complexity." New Scientist, 26 November 
+1988. 
+Nicely written overview article of the new perspective of complexity. 
+------. The Mind of God. Simon & Schuster, 1992. 
+I have not yet been able to say exactly why I think this book is so apt to my subject of complexity and evolution. It's about current understandings of the underlying laws of the physical universe, but Davies presents these laws in the space of all possible laws, or all possible universes, and talks about why these laws were chosen or evolved or happened. Thus one gets into the mind of God, or god. It's full of fresh perspectives and near-heretical thoughts. 
+Dawkins, Richard. The Selfish Gene. Oxford University Press, 1976. 
+A wholly original idea (that genes replicate for their own reasons) and brilliant exposition. Dawkins also introduces his equally original secondary idea of memes (ideas that replicate for their own reasons). 
+------. The Blind Watchmaker. W.W. Norton, 1987. 
+Perhaps the most neodarwinian of all books. Dawkins presents the case for a "universe without design" based entirely on natural selection. And he writes so well and clearly that his forceful ideas are hard to argue with. At the very least, this book is probably the best general introduction to orthodox evolutionary theory anywhere. Full of clever examples. 
+------. "The Evolution of Evolvability." In Artificial Life, Langton, Christopher G., ed. Addison-Wesley, 1988. 
+A brilliant sketch of a stunningly new idea: that evolvability can evolve. 
+Dempster, William F. "Biosphere II: Technical Overview of a Manned Closed Ecological System." Society of Automotive Engineers, 1989, SAE Technical Paper Series #891599. 
+Prelaunch technical details about the engineering achievements of Bio2. 
+Denton, Michael. Evolution: A Theory in Crisis. Burnett Books, 1985. 
+This is the best scientific critique of Darwinian evolution available. Denton does not seem to have a hidden agenda, which is refreshing in these kinds of books. 
+Depew, David J., and Bruce H. Weber, eds. Evolution at a Crossroads. The MIT Press, 1985. 
+A collection of scientific papers that explore fairly radical approaches to the steep conceptual problems in evolution theory. 
+De Robertis, Eddy M. et al. "Homeobox Genes and the Vertebrate Body Plan." Scientific American, July 1990. 
+Readable article on importance of ancient homeobox regulatory genes. 
+Dixon, Dougal. After Man: A Zoology of the Future. St. Martin's Press, 1981. The only book I know that extrapolates evolution into the future without 
+being capricious or superficial, that is, with some measure of scope and consistency. Although not meant to be scientific, this gorgeously illustrated book is an inspiration. 
+Dobzhansky, Theodosius. Mankind Evolving. Yale University Press, 1962. 
+A rather old-fashioned book in tone, geneticist Dobzhansky calmly plunges into the controversial waters of race, intelligence, personality, and evolution. 
+Drake, James A. "Community-assembly Mechanics and the Structure of an Experimental Species Ensemble." The American Naturalist, 137; January 1991. 
+Elegant experiments showing how the order and timing of introducing species influences the final mix of an ecological community. 
+Drexler, K. Eric. "Hypertext Publishing and the Evolution of Knowledge." Social Intelligence, 1; 2, 1991. 
+A thorough and enthusiastic sketch of a distributed public hypertext system and its advantages in spurring scientific knowledge 
+Dupre, John, ed. The Latest on the Best: Essays on Evolution and Optimality. The MIT Press, 1987. 
+By and large these essays make a convincing case that biological systems do not optimize to the best, because the question "best for what?" can't be answered. 
+Dykhuizen, Daniel E. "Experimental Evolution: Replicating History." Trends in Ecology and Evolution, 7; August 1992. 
+Review and comments on laboratory studies of observed evolution within microbial populations. 
+Dyson, Freeman. From Eros to Gaia. HarperCollins, 1990. 
+Contains great chapter on "Carbon Dioxide in the Atmosphere and the Biosphere." 
+------. Origins of Life. Cambridge University Press, 1985. 
+Refreshingly lucid and orthogonal view of the origin of life problem by a noted physicist. In terms of brilliance has much in common with Schrodinger's "What is Life?" 
+------. Infinite in All Directions. Harper & Row, 1988. 
+An original thinker writes very lyrically on whatever interests him, which is usually what almost no one else is thinking about. Dyson can take an ordinary subject and find incredibly fresh insights in it. In this volume he considers how the universe will end. 
+Eco, Umberto. Travels in Hyperreality. Harcourt Brace Jovanovich, 1986. 
+The key essay in this compendium should be required reading for all Americans graduating from high school. It's about the real, the fake, and the hyperreal. Eigen, Manfred, and Peter Schuster. The Hypercycle: A Principle of Natural 
+Self-Organization. Springer-Verlag, 1979. 
+A powerful abstraction of cycles within cycles producing self-made stable cycles, or hypercycles. 
+Eldredge, Niles. Unfinished Synthesis: Biological Hierarchies and Modern Evolutionary Thought. Oxford University Press, 1985. 
+Eldredge, who coauthored punctuated equilibrium theory, here pushes evolutionary theory further in a pioneering work on hierarchies of evolutionary change. By all accounts understanding hierarchical change is the next frontier in the science of complexity. 
+------. Macroevolutionary Dynamics: Species, Niches, and Adaptive Peaks. McGraw-Hill, 1989. 
+A technical treatise for professionals on how emergent levels of evolution impact adaptation at the species level. 
+Endler, John A. Natural Selection in the Wild. Princeton University Press, 1986. 
+Endler rounds up all known studies of natural selection in nature and dissects them rigorously. In the process he arrives at refreshing insights of what natural selection is. 
+Flynn, Anita, Rodney A. Brooks, and Lee S. Tavrow. "Twilight Zones and Cornerstones: A gnat robot double feature." MIT Artificial Intelligence Laboratory, 1989, A.I. Memo 1126. 
+Blue-sky dreaming on why and how to build tiny gnat-sized robots--disposable, entirely self-contained autonomous critters that can do real work. 
+Foerster, Heinz von. "Circular Causality: Fragments." Intersystems Publications, ca. 1980. 
+A short chronology of the Macy Conference and the participants at each meeting, and an introduction to the seed idea of emergent "telos" or goal and purpose. 
+------. Observing Systems. Intersystems Publications, 1981. 
+An anthology of von Foerster's papers. These range from mathematical treatise to philosophical rants. All point to von Foerster's law that observers are part of the system. 
+Fogel, Lawrence J., Alvin J. Owens, and Michael J. Walsh. Artificial Evolution Through Simulated Evolution. Wiley & Sons, 1966. 
+Early connectionism that didn't produce much intelligence but did prove the worth of evolutionary programming. This is probably the first computational evolution. 
+Folsome, Clair E. "Closed Ecological Systems: Transplanting Earth's Biosphere to Space." AIAA, May 1987. 
+A rough sketch at what science needs to know to make a closed 
+extraterrestrial living habitat. 
+Folsome, Clair E., and Joe A. Hanson. "The Emergence of Materially-closed-system Ecology." In Ecosystem Theory and Application, Polunin, Nicholas, ed. John Wiley & Sons, 1986. 
+A wonderful report on sealed jars of microbial life that keep going and going. The authors measure the energy flow and productivity of the closed system. 
+Forrest, Stephanie, ed. Emergent Computation. North-Holland, 1990. 
+How does collective and cooperative behavior step out of a mass of computing nodes? These proceedings from a conference on nonlinear systems round up current approaches from neural nets, cellular automata, and simulated annealing, among other computatioal techniques. 
+Frazzetta, T. H. Complex Adaptations in Evolving Populations. Sinauer Associates, 1975. 
+Realistically examines the riddle of how adaptation occurs with linked genes in real, fuzzy populations. Sort of an engineer's approach; pretty readable. 
+Frosch, Robert A., and Nicholas E. Gallopoulos. "Strategies for Manufacturing." Scientific American, September 1989. 
+A position paper that introduces closed loop manufacturing and the biological analog. 
+Gardner, M. R., and W. R. Ashby. "Connectance of Large Dynamic (Cybernetic) Systems: Critical Values for Stability." Nature, 228; 5273, 1970. 
+Often cited paper on ratio between connectivity and stability. 
+Gelernter, David. Mirror Worlds. Oxford University Press, 1991. 
+A magically elegant vision of mirroring real systems (such as a town or hospital) with parallel real-time virtual models as a means of overseeing, managing, and exploring them. 
+Gell-Mann, Murray. "Simplicity and Complexity in the Description of Nature." Engineering & Science, 3, Spring 1988. 
+A not-impressive start at unraveling the difference between simplicity and complexity. But it's something. 
+George, F. H. The Foundations of Cybernetics. Gordon and Breach Science Publishers, 1977. 
+A lukewarm (but French!) overview of cybernetics (pretty much outdated by now) with a couple of good generalizations. 
+Gilder, George. Microcosmos: The Quantum Revolution in Economics and Technology. Simon and Schuster, 1989. 
+A generous and meaty book on how technology is retreating from the material realm and heading into the symbolic realm, and the economic 
+consequences of that shift. 
+Gleick, James. Chaos. Viking Penguin, 1987. 
+This bestseller hardly needs an introduction. It's a model of science writing, both in form and content. Although a small industry of chaos books has followed its worldwide success, this one is still worth rereading as a delightful way to glimpse the implications of complex systems. 
+Goldberg, David E. Genetic Algorithms in Search, Optimization, and Machine Learning. Addison-Wesley, 1989. 
+Best technical overview of genetic algorithms. 
+Goldschmidt, Richard. The Material Basis of Evolution. Yale University Press, 1940. 
+To get to the juicy parts, you have to read a lot of old-fashioned 1940s genetics. Consider this the prime source of the hopeful monster theory. 
+Gould, Stephen Jay. Ever Since Darwin. W. W. Norton, 1977. 
+Gould's essays never fail to inform and change my mind. In this collection, I was particularly attentive to "The Misunderstood Irish Elk." 
+------. The Panda's Thumb. W. W. Norton, 1980. 
+Of all Gould's anthologies of essays from his column in Natural History, this one has the most about macroevolutionary dynamics and new evolutionary thinking. 
+------. Hen's Teeth and Horse's Toes. W. W. Norton, 1983. 
+Lots of fascinating history about evolution theory in Gould's peerless style. 
+------. Wonderful Life: The Burgess Shale and the Nature of History. W. W. Norton, 1989. 
+A splendid masterwork. Rich, lucid, flawless, and iconoclastic. Gould's story of the painful reinterpretation of old shale fossils leading to an altered view of the history of life--that of decreasing diversity--is a mandatory read these days. 
+------. "Opus 200." Natural History, August 1991. 
+You'll find no better, more succinct explanation of how punctuated equilibrium works than this one from the horse's mouth. Not only the why but also a bit of history of what supporters call "punk eke" and detractors label "evolution by jerks." 
+Gould, Stephen Jay, and R.C. Lewontin. "The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme." Proceedings of the Royal Society of London, B 205; 1979. 
+An oft-cited paper that argues against perceiving everything as the result of selective adaptation (the Panglossian paradigm). Gould makes a very readable case for a plurality of evolutionary dynamics. Gould, Stephen Jay, and Elisabeth S. Vrba. "Exaptation--a missing term in 
+the science of form." Paleobiology, 8; 1, 1982. 
+The term is for a feature devised as an adaptation for one reason which is then repurposed for another adaptive pressure. Using feathers devised for warmth in order to fly is the stock example. 
+Grasse, Pierre P. Evolution of Living Organisms: Evidence for a New Theory of Transformation. Academic Press, 1977. 
+Representative subchapters cover such juicy topics as "Limits to Adaptation," and "Forbidden Phenotypes," favorite postdarwinian challenges. Provocative book. 
+Hamilton, William D., Robert Axelrod, and Reiko Tanese. "Sexual reproduction as an adaptation to resist parasites (A Review)." Proceedings of the National Academy of Science, USA, 87; May 1990. 
+Not only is this a clever and convincing explanation of the origin of sex, but it is a marvelous demonstration of the power of computational biology. 
+Harasim, Linda M., ed. Global Networks. The MIT Press, 1993. 
+Twenty-one contributors speak on the effects seen so far of decentralized high-bandwidth communication at global scale; there is little hard data, mostly hints of opportunities and pitfalls. 
+Hayes-Roth, Frederick. "The machine as partner of the new professional." IEEE Spectrum, 1984. 
+Source of cute employment letter for humans. 
+Heeter, Carrie. "BattleTech Masters: Emergence of the First U.S. Virtual Reality SubCulture." Michigan State University, Computer Center, 1992. 
+Somewhere between a scholarly report and a marketing survey of the fanatical users of the first commercial networked virtual reality installation. 
+Heims, Steve J. The Cybernetics Group. The MIT Press, 1991. 
+An incredibly thorough history of the agenda and flavor of the Macy Conferences and vignettes of some of the illustrious participants. 
+Hillis, W. Daniel. The Connection Machine. The MIT Press, 1985. 
+The inventor's conceptual blueprint for the first commercial parallel processing computer and a few thoughts on what it might mean. 
+------. "Intelligence as an Emergent Behavior." In Artificial Intelligence, Graubard, Stephen, ed. The MIT Press, 1988. 
+In a special issue of Daedulus magazine which examined the state of artificial intelligence research in 1988, Hillis offers a connectionist view of possible AI, but one embedded in parallel and evolutionary processes. His are some of the most intelligent remarks I've heard on intelligence. 
+Hiltz, Starr Roxanne and Murray Turoff. The Network Nation: Human Communication via Computer (Revised Edition). The MIT Press, 1993. A visionary book when it was first published in 1978, it accurately forecasted 
+many of the effects of intensely connected computer communications and distributed groups. It still has much to say about the coming network culture. A new section in the revised edition addresses the authors' current thoughts on superconnectivity. 
+Hinton, Geoffrey E., and Steven J. Nowlan. "How Learning Can Guide Evolution." Complex Systems, 1; 1987. 
+This very brief paper presents intriguing results of a type of Lamarckian evolution running on computers and some provocative speculations of other postdarwinian evolutions. 
+Ho, Mae-Wan, and Peter T. Saunders. Beyond Neo-Darwinism. Academic Press, 1984. 
+Not too many non-Darwinian books are published within science itself. This one comes from real biologists getting results that are suggestive, or merely permit a hint, of non-Darwinian evolution. This is good science at work. 
+Hofstadter, Douglas. Gödel, Escher, Bach: An Eternal Golden Braid. Basic Books, 1979. 
+Identical in all respects to the strangely loopy Pulitzer Prize-winning volume, Copper, Silver, Gold: an Indestructible Metallic Alloy by Egbert B. Gebstadter, now out of print. 
+Holldobler, Bert, and Edward O. Wilson. The Ants. Harvard University Press, 1990. 
+Deep, deep, rich, rich. All that is known about ants to date (including some expanded and revised sections from Wilson's earlier "Insect Societies"). A book to own and get lost in. Deserves the Pulitzer Prize it won. 
+Huberman, B. A. The Ecology of Computation. Elsevier Science Publishers, 1988. 
+A most interesting collection of pioneering papers on using economic and ecological dynamics within computation to manage complex computational tasks. 
+Johnson, Phillip E. Darwin on Trial. Regnery Gateway, 1991. 
+Johnson is a lawyer who treats Neo-Darwinism as a defendant on trial, and subjects its evidence to the strict rules of court. He concludes that it is an unproven hypothesis that does not at this point seem to fit the evidence at hand. For the uninitiated layperson, a good first read on anti-Darwinism, but it follows lawyerly logic rather than science logic. 
+Kanerva, Pentti. Sparse Distributed Memory. MIT Press, 1988. 
+A dry, but daring monograph on a new architecture for computer memory, one that relies on weak associative connections. Wonderful forward by Douglas Hofstadter, who explains the novel design's significance. 
+Kauffman, Stuart A. "Antichaos and Adaptation." Scientific American, August 1991. A very accessible summation of Kauffman's important major ideas, with 
+nary an equation in it. Read this one first. 
+------. "The Sciences of Complexity and `Origins of Order'." Santa Fe Institute, 1991, technical report 91-04-021. 
+A personal and almost poetic short history of Kauffman's own idea of self-organizing order. 
+------. The Origins of Order: Self Organization and Selection in Evolution. Oxford University Press, 1993. 
+A sprawling, deep, massive magnum opus of a book, as dense as a dictionary. Kauffman tries to tell you everything he knows, and he's bright, so hang in there. It's about the yin and yang of natural selection and self-organization. A seminal work, not to be missed. 
+Kauppi, Pekka E., Karl Mielikainen, and Kullervo Kuusela. "Biomass and Carbon Budget of European Forests, 1971 to 1990." Science, 256; 3 April 1992. 
+Shows a biomass increase in Gaia which may be due to atmospheric carbon dioxide increase. 
+Kay, Alan C. "Computers, Networks and Education." Scientific American, September 1991. 
+An notable vision of how peer-to-peer networks might change education. 
+Kleiner, Art. "The Programmable World." Popular Science, May 1992. 
+About a chip that could be the basis for smart houses and distributed cooperative computing in the fabricated environment. 
+Kochen, Manfred. The Small World. Ablex Publishing Corporation, 1989. 
+Small world as in "there must be only 200 people in the whole world because I keep running into the same ones." If you go deeper into this incredibly rich volume of studies on social networks, you'll find it contains some of the coolest data for network culture seen yet. Here are real numbers on how many friends-of-a-friend connect us all. 
+Koestler, Arthur. Janus: A Summing Up. Random House, 1978. 
+No critic of Darwin in modern times has been as literate or influential as the brilliant Koestler. He spends the latter third of this book summing up his objections to Darwinism, and offering some suggestions for alternatives. His agile thinking on the subject loosened up my mind. 
+Korner, Christian, and John A. Arnone. "Responses to Elevated Carbon Dioxide in Artificial Tropical Ecosystems." Science, 257; 18 September 1992. 
+Where the CO2 goes in closed greenhouses. 
+Koza, John. Genetic Programming: On the Programming of Computers by 
+Means of Natural Selection. The MIT Press, 1992. More than anyone else, Koza has tried to evolve software in systematic 
+ways. This humongous tome is the record of his experimental details and results. 
+Langreth, Robert. "Engineering Dogma Gives Way to Chaos." Science, 252; 10 May 1991. 
+How engineers can outsmart chaotic vibration and injury with antichaos. 
+Langton, Christopher G., ed. Artificial Life. Addison-Wesley, 1987. 
+The mother of all artificial life studies. This is the proceedings of the first a-life workshop. The breadth of the articles is amazing. 
+Langton, Christopher, et al, eds. Artificial Life II. Addison-Wesley, 1992. 
+True news here. The most recent results of simulations of artificial evolution and protolife in computers. Original, deeply significant, and very accessible papers. Probably the most important book in this bibliography. 
+Lapo, Andrey. Traces of Bygone Biospheres. Synergetic Press, 1987. 
+Very Russian reclassification of life types on Earth by a sort of grand 
+biomystic combining Chardin's "noosphere" with Lovelock's "Gaia," and Vernadsky's geochemcial vitalism. Hard to read but intriguing. 
+Laszlo, Ervin. Evolution, the Grand Synthesis. Shambhala, 1987. 
+New-agey speculations of the role of evolutionary change in the universe. I guess I found the freewheeling style and long view refreshing although I can't say I learned anything in particular from it. 
+Latil, Pierre de. Thinking by Machine: A Study of Cybernetics. Houghton Mifflin, 1956. 
+A real find. This French author had the most insightful and news-filled takes on feedback cybernetics I found anywhere. All the more amazing for having been written in 1956. I owe much to him. 
+Layzer, David. Cosmogenesis: The Growth of Order in the Universe. Oxford University Press, 1990. 
+Seems a bit flaky to me, but he did have an unusual idea or two that I couldn't dismiss. He came up with "reproductive instability" as a driving force in evolution. 
+Lenat, Douglas B. "The Heuristics of Nature: The Plausible Mutation of DNA." Stanford Heuristic Programming Project, 1980, technical report HPP-80-27. 
+The most heretical, yet plausible, alternative theory to Darwinian evolution I am aware of is compactly presented in this technical report from the Stanford Computer Science Department. 
+Leopold, Aldo. Aldo Leopold's Wilderness: Selected early writings by the author of A Sand County Almanac. Stackpole Books, 1990. 
+Among many other things, this volume airs Leopold's early thoughts about the role of fire in natural systems. Levy, Steven. Artificial Life. Pantheon, 1992. 
+An extremely enjoyable narrative of the making of the artificial life 
+movement and a memorable overview of its central ideas and characters. 
+Lewin, Roger. Complexity: Life at the Edge of Chaos. Macmillian Publishing, 1992. 
+Annotated interviews with some of the central characters currently involved in making complexity itself a science. Not as deep or satisfying as Waldrop's book about the same subject, or Levy's on artificial life; this one gives a quick but superficial overview, and has a more biological, rather than mathematical, slant. Best part is the treatment of the problem of direction or trends in evolution. 
+Lightman, Alan, and Owen Gingerich. "When Do Anomalies Begin?" Science, 255; 7 February 1991. 
+Provocative thesis on the mechanism of progress within science. 
+Lima-de-Faria, A. Evolution without Selection: Form and Function by Autoevolution. Elsevier, 1988. 
+A difficult book. He seems to arrive at the same place as Kauffman but by intuitive and poetic means, rather than mathematics and science. 
+Lipset, David. Gregory Bateson: The Legacy of a Scientist. Prentice-Hall, 1980. 
+Bateson was interested in all things mysteriously complex. This biography of him and his interests illuminates the range of complexities that might be understood by looking at language, learning, the unconscious, and evolution. 
+Lloyd, Seth. "The Calculus of Intricacy." The Sciences, October 1990. 
+The best general introduction to defining complexity I have seen, and gracefully written to boot. 
+Lovece, Joseph A. "Commercial Applications of Unmanned Air Vehicles." Mobile Robots and Unmanned Vehicles, 1, August-July 1990. 
+Comprehensive roundup of current work-in-progress in commercial autonomous robots. 
+Lovelock, James. The Ages of Gaia: A Biography of Our Living Earth. W. W. Norton, 1988. 
+Lovelock rounds out his Gaia hypothesis into a theory here, and offers his best arguments and observations in support of it. He also speaks of how Gaia might have evolved. 
+Lovtrup, Soren. Darwinism: The Refutation of a Myth. Croom Helm, 1987. 
+This is detailed blow-by-blow history of the ideas and personalities of anti-Darwinism. It's chock-full of delicious excerpts and quotes from past critics up until the present. It goes deep into the doubts of other experts about Darwinism. Annotated Bibliography: M to Z... 
+  
+ 
+Out of Control
+Macbeth, Norman. Darwin Retried. Gambit Incorporated, 1971. 
+A fair "trial" of the evidence for Darwinian evolution. Short, but effective. 
+Tends to highlight the discrepancies, but offers no alternatives. 
+Maes, Pattie. "How to do the Right Thing." Connection Science, 1; 3, 1989. 
+Discusses an algorithm for robotic intelligence which will bias choice of action in certain directions as an ongoing "plan." 
+----. "Situated Agents Can Have Goals." Robotics and Autonomous Systems, 6; 1990. 
+How functional goals can emerge from a mass of simple rules in robots. 
+Malone, Thomas W., Joanne Yates, and Robert I. Benjamin. "Electronic Markets and Electronic Hierarchies." Communications of the ACM, 30; 6, 1987. 
+How increased use of cheap coordination technology will shift the economy away from hierarchical forms to market networks. Excellent paper. 
+Mann, Charles. "Lynn Margulis: Science's Unruly Earth Mother." Science, 252; 19 April 1991. 
+An entertaining account of mainstream evolutionary biologists' reaction to Margulis's ideas. 
+Margalef, Ramon. Perspectives in Ecological Theory. The University of Chicago Press, 1968. 
+The best treatment of ecosystems as cybernetic systems. 
+Margulis, Lynn, and Rene Fester, eds. Symbiosis as a Source of Evolutionary Innovation: Speciation and Morphogenesis. The MIT Press, 1991. 
+Lots of case studies on symbiotic relations. A few good chapters on reevaluating symbiosis' role in evolution. 
+Markoff, John. "The Creature That Lives in Pittsburgh." The New York Times, April 21, 1991. 
+About Ambler, the huge semismart walking robot built by CMU in Pittsburgh. 
+May, Robert M. "Will a Large Complex System be Stable?" Nature, 238; 18 August 1972. An early mathematical demonstration that showed that beyond a critical 
+value, complexity unstabilizes a system. 
+Mayo, Oliver. Natural Selection and its Constraints. Academic Press, 1983. 
+This extremely technical book treats the genetic constraints on natural selection very seriously. Mayo asserts the constraints create narrow boundaries for evolution. He also dabbles with some alternative theories, which he woefully concludes cannot replace the current theory. 
+Mayr, Ernst. Toward a New Philosophy of Biology. The Belknap Press of Harvard University Press, 1988. 
+Mayr is the arch-orthodox Darwinian. Not only did he cofound the Modern Synthesis of Neo-Darwinism, he remains its most dogmatic defender. Yet, he proposed what later became the bad-boy idea of punk-eek twenty years before Gould, and in this book he makes a strong case for radical, cohesive constraints of the gene. 
+Mayr, Otto. The Origins of Feedback Control. MIT Press, 1969. 
+A readable history of ancient servomechanisms and modern mechanical feedback devices, including one invented by the author's father. 
+-----. Authority, Liberty & Automatic Machinery in Early Modern Europe. John Hopkins University Press, 1986. 
+How the metaphors of control shaped and were shaped by the technologies of control. 
+Mazlish, Bruce. The Fourth Discontinuity: The Coevolution of Humans and Machines. Yale University Press, 1993. 
+An excellent, penetrating history of the bionic convergence and its philosophical consequences. If this book had been published earlier, I would have borrowed much from it; but it came out as mine was being wrapped up. 
+McCulloch, Warren S. An Account of the First Three Conferences on Teleological Mechanisms. Josiah Macy, Jr. Foundation, 1947. 
+A dense summary of the first three Macy conferences, which covered an amazing range of topics, all before they hit upon the term "cybernetics." 
+McKenna, Michael, Steve Pieper, and David Zeltzer. "Control of a Virtual Actor: The Roach." Computer Graphics, 24; 2, 1990. 
+How to direct a virtual roach to walk where you want it to within a virtual environment. 
+McShea, Daniel W. "Complexity and Evolution: What Everybody Knows." Biology and Philosophy, 6; 1991. 
+A wonderful review of historical notions of increasing complexity in biological evolution ("what everybody knows"), and the author's own evidence against the idea. 
+Meadows, Donella H., Dennis L. Meadows, et al. The Limits to Growth. New American Library, 1972. 
+Notorious simulation from the Club of Rome which extrapolates economic 
+and environmental trends of the whole Earth. Widely lauded and critiqued in the 1970s. 
+Meadows, Donella H., Dennis L Meadows, and Jorgen Randers. Beyond the Limits: Confronting global collapses, envisioning a sustainable future. Chelsea Green Publishing, 1992. 
+Sequel to 1972's best-selling The Limits to Growth. 
+Metropolis, N., and Gian-Carlo Rota, eds. A New Era in Computation. The MIT Press, 1992. 
+A very fine collection of essays written for the layperson which speak on the impact that parallel computing has had and will have on computer science, culture, and our own thinking. 
+Meyer, Jean-Arcady, and Stewart Wilson, eds. From Animals to Animats. The MIT Press, 1991. 
+The papers from a fruitful conference on the simulation of adaptive behavior, which gathered ethologists studying real animal behavior and roboticists trying to synthesize behavior in artificial "animats." 
+Meyer, Thomas P., and Norman Packard. "Local Forecasting of High Dimensional Chaotic Dynamics." Center for Complex Systems Research, The Beckman Institute, University of Illinois, 1991, technical report CCSR-91-1. 
+Theoretical underpinning for attempts to make "local" predictions in complex systems. 
+Midgley, Mary. Evolution as a Religion: Strange hopes and stranger fears. Muthuen & Co, Ltd., 1985. 
+Midgley wrestles with the philosophical consequences of "belief" in evolution, sometimes successfully and sometimes not. But she provides much to think about. 
+Miller, James Grier. Living Systems. McGraw-Hill, 1978. 
+A massive (we're talking about 1100 pages of minuscule type here) tome on the levels, sublevels and sub-sublevels of living systems, including organizations and such. Think of this as a printout of raw data on all living systems. 
+Minsky, Marvin. The Society of Mind. Simon & Schuster, 1985. 
+In 270 very readable one-page essays, Minsky presents a society of ideas about the society of mind. It is true Zen. Every page is a mob of astounding and mind-changing ideas. And at every point in thinking about complex systems I would come back to Minsky. This is the book that eventually led me to write this book. 
+Modis, Theodore. Predictions. Simon & Schuster, 1992. 
+In some ways a little cranky, but still useful nonetheless as a summary of technological forecasting. Mooney, Harold A. Convergent Evolution in Chile and California. Dowden, 
+Hutchinson & Ross, 1977. 
+Marks the parallel biological forms in two continents. Primarily ascribes this similarity to the orthodox explanation of similar climate. Does not address the alternative theory of internalist reasons for convergent evolution. 
+Morgan, C. Lloyd. Emergent Evolution. Henry Holt and Company, 1923. 
+A very early and not very successful stab at trying to articulate emergent control in evolution. 
+Moss, J. Eliot B. Nested Transactions: An Approach to Reliable Distributed Computing. The MIT Press, 1985. 
+Practical use of hierarchy. 
+Motamedi, Beatrice. "Retailing Goes High-Tech." San Francisco Chronicle, April 8, 1991. 
+Story on real-time trend-spotting, inventory stocking and manufacturing in the top retailers using intensive networked communications. 
+Needham, Joseph. Science and Civilisation in China. Cambridge at the University Press, 1965. 
+The ancient Chinese invented remarkably sophisticated mechanical devices, and this series of awesome books tracks each invention in mind-boggling detail. It's like having a patent registry for the Han people. 
+Negroponte, Nicholas P. "Products and Services for Computer Networks." Scientific American, September 1991. 
+What we can expect from pervasive ultrahigh bandwidth networks, by the director of the MIT Media Lab. 
+Nelson, Mark. "Bioregenerative Life Support for Space Habitation and Extended Planetary Missions." Space Biosphere Ventures, 1989. 
+Gets into the early attempts at self-sustaining space habitats. 
+Nelson, Mark, and Gerald Soffen, eds. Biological Life Support Systems. Synergetic Press, 1990. 
+The proceedings of a 1989 workshop on closed biological-based systems as human life support devices in space. Held at the site of Biosphere II and cosponsored by NASA. Technical but rich. 
+Nelson, Mark, and Tony L. Burgess, et al. "Using a closed ecological system to study Earth's biosphere: Initial results from Biosphere 2." BioScience, April 1993. 
+Description of the scientific experiment in Biosphere 2 written by Bio2 staff after the first year. Has excellent bibliography for this esoteric subject. 
+Nitecki, Matthew H., ed. Evolutionary Progress. University of Chicago Press, 1988. Biologists don't know how to handle the idea of progress in evolution. Here 
+leading evolutionists, philosophers, and historians of biology grapple with the controversial idea in these postmodern times, and come up ambivalent in the aggregate. A few of them find the notion "noxious, culturally embedded, untestable, nonoperational, intractable." Those who do acknowledge progress in evolution are uncomfortable. This is a good, revealing collection of papers. 
+O'Neill, R. V. A Hierarchical Concept of Ecosystems. Princeton University Press, 1986. 
+Treats the latest hot trend in ecology: a new perspective which considers communities as hierarchical structures with different dynamics for every level. Does a good job in setting out the questions that need to be answered. 
+Obenhuber, D. C., and C. E. Folsome. "Carbon recycling in materially closed ecological life support systems." BioSystems, 21; 1988. 
+Measurements of carbon pathways in closed ecospheres. 
+Odum, Eugene P. Ecology and Our Endangered Life-Support Systems. Sinauer Associates, 1989. 
+A quick introductory tour of the science of ecology by the guy who brought energy accounting to the field. 
+Olson, R. L., M. W. Oleson, and T. J. Slavin. "CELSS for Advanced Manned Mission." HortScience, 23(2); April 1988. 
+A paper from a symposium on "Extraterrestrial Crop Production." Good summary of NASA's closed system experiments. 
+Pagels, Heinz R. The Dreams of Reason: The Computer and the Rise of the Sciences of Complexity. Bantam, 1988. 
+A satisfyingly rich and perceptive scan on how the complexity of the computer makes visible the complexity of the world. 
+Parisi, Domenico, Stefano Nolfi, and Federico Cecconi. "Learning, Behavior, and Evolution." In Proceedings of the First European Conference on Artificial Life, The MIT Press, 1991. 
+Exploration of the role of learned behavior in accelerating evolution based on neural networks. 
+Pattee, Howard H. Hierarchy Theory: The Challenge of Complex Systems. George Braziller, 1973.
+This is a book of all that was known about hierarchical systems 20 years 
+ago, and it wasn't much. The authors ask some good questions which still have not been answered. In short, we still don't know much how hierarchies of control work.
+Pauly, Philip J. Controlling Life: Jacques Loeb & the Engineering Ideal in Biology. University of California Press, 1987. 
+A scholarly biography of the guy who did most to make science think of 
+biological organisms as mechanisms. 
+Pimm, Stuart L. "The complexity and stability of ecosystems." Nature, 307; 26 January 1984. 
+Tries to answer the question of how complexity and stability in ecosystems are related. 
+---. The Balance of Nature? University of Chicago Press, 1991. 
+Pimm treats food-webs as if they were cybernetic circuits, and out of both simulated and real food-webs has derived some of the freshest ecological news in a decade. 
+Pimm, Stuart L., John H. Lawton, and Joel E. Cohen. "Food web patterns and their consequences." Nature, 350; 25 April 1991. 
+An extremely informative review article on what is known about ecological food webs from a systems point of view. 
+Pines, David, ed. Emerging Syntheses in Science. Addison-Wesley, 1988. 
+An eclectic bunch of papers signaling the new science of complexity. The best papers in this anthology, derived from the founding workshop of the Santa Fe Institute, focus on the problems of complexity itself. 
+Porter, Eliot, and James Gleick. Nature's Chaos. Viking, 1990. 
+The exquisite color landscape photography of Eliot Porter is paired with the lyrical science prose of James Gleick. Both celebrateÑin coffee table book formatÑthe ordered complexities and complications of nature in its large and small details. 
+Poundstone, William. Prisoner's Dilemma. Doubleday, 1992. 
+Besides telling you more than you'll ever really want to know about the Prisoner's Dilemma game, this book also ties the game into the history of think tanks and the use of game theory in the arms race and the role of John von Neumann in both game theory and the cold war. 
+Powers, William T. Living Control Systems. The Control Systems Group, 1989. 
+A control engineer looks at the variety of control circuits in biological systems. 
+Prusinkiewicz, Przemyslaw, and Aristid Lindenmayer. The Algorithmic Beauty of Plants. Springer-Verlag, 1990. 
+Plants as numbers. 
+Pugh, Robert E. Evaluation of Policy Simulation Models: A Conceptual Approach and Case Study. Information Resources Press, 1977. 
+Evaluates world economic models such as Limits to Growth. Raup, David M. Extinction: Bad Genes or Bad Luck? W. W. Norton, 1991.
+The title is a very good question. This prominent paleontologist thinks it's a 
+combination of bad genes and bad luck, but that "most species die out because they are unlucky." And thus he presents his evidence.
+Reid, Robert G. B. Evolutionary Theory: The Unfinished Synthesis. Croom 
+Helm, 1985. 
+This is the most interesting book on evolutionary theory I have come across. While other books can serve up more exhaustive critiques of neo-Darwinism, none compare to this one in presenting a post-Darwinian view. The author is not afraid to dip into nonbiological studies to shape his notion of evolution; yet he primarily dwells in biological fact. Most recommended. 
+Rheingold, Howard. Tools for Thought. Prentice Hall Books, 1985. 
+Subtitled: "The history and future of mind-expanding technology," this is a really hip and very informative chronicle of how computers became personal computers, of the visionary people behind that transformation, and of its social meaning and cultural consequences. I recommend it as the best history of computers to date. 
+Ricklefs, Robert E. Ecology. Chiron Press, 1979. 
+A textbook on ecology that is lucid, deep, and gracefully written and full of the author's personal insight, setting it apart from most rather antiseptic and formulaic ecology textbooks. 
+Ridley, Mark. The Problems of Evolution. Oxford University Press, 1985. 
+Here are the current bothersome problems in neo-Darwinian theory from within the perspective of neo-Darwinism. 
+Roberts, Peter C. Modelling Large Systems. Taylor & Francis, 1978. 
+Primarily on the difficulties of getting meaningful results via miniaturizing a large system. 
+Robinson, Herbert W., and Douglas E. Knight. Cybernetics, Artificial Intelligence, and Ecology. Spartan Books, 1972. 
+A few helpful ideas and a fair representation of cybernetic thinking. 
+Root, A. I., ed. The ABC and XYZ of Bee Culture. A. I. Root Company, 1962. 
+For over a hundred years a perennial encyclopedia of bee culture lore for first-time beekeepers. Remarkably timeless, last updated in 1962. 
+Rosenfield, Israel. The Invention of Memory. Basic Books, 1988. 
+A survey view of the brain as having a nonlocalized memory, and a long prologue to an exposition of Gerald Edelman's controversial idea of "Neural Darwinism," or the natural selection of thoughts in the brain. 
+Sagan, Dorion. Biospheres: Metamorphosis of Planet Earth. McGraw-Hill, 1990. Speculations on the science of biosphericsÑhuman habitats as extensions of 
+Gaia. 
+Salthe, Stanley N. Evolving Hierarchical Systems: Their Structure and Representation. Columbia University Press, 1985.
+Can't say I completely understand this book, but it is very provocative in 
+picturing evolution as working differentially at various levels.
+Saunders, Peter T. "The complexity of organisms." In Evolutionary Theory: 
+Paths into the Future, Pollard, J. W., ed. John Wiley and Sons, 1984. 
+Saunders sees complexity arising out of self-organization rather than from natural selection. 
+Schement, Jorge Reina, and Leah A. Lievrouw. Competing Visions, Complex Realities: Social Aspects of the Information Society. Ablex Publishing, 1987. 
+Thoughts on communication networks as social structure. 
+Schneider, Stephen, H. Penelope, and J. Boston, eds. Scientists on Gaia. The MIT Press, 1991. 
+Some of the papers in this compendium are more rigorous than others, but all strive to describe Gaia in scientific rather than poetical terms. I found the papers which worried about the definitions of Gaia to be the most productive. 
+Schrage, Michael. Shared Minds: The New Technologies of Collaboration. Random House, 1990. 
+In a network society the tools of collaboration become essential and wealth- generating. Schrage reports on current research into new network skills. 
+Schull, Jonathan. "Are species intelligent?" Behavioral and Brain Sciences, 13; 1, 1990. 
+Since the analogy between learning and evolution is at least as old as the idea of evolution itself, the author examines species as thinking structures. His idea is critiqued by cognitive scientists and evolutionists. 
+Schulmeyer, G. Gordon. Zero Defect Software. McGraw-Hill, 1990. 
+An introduction to the controversial zero defect concept. I take this book as one method to construct reliable complex systems. 
+Scientific American, eds. Automatic Control. Simon and Schuster, 1955. 
+Primarily for historical interest, this anthology of early Scientific American articles on cybernetic control talks about the impact of automatic systems on society at a time (late '40s) when the population of computers in the world was exactly one. 
+Simon, Herbert A. The Sciences of the Artificial. The MIT Press, 1969. 
+There's a lot of common sense about how to build complex systems packed into this small book. It also offers rare insight into the role and meanings of simulations. 
+---. Models of My Life. Basic Books, 1991. 
+A dull autobiography about the extraordinary life of the last renaissance man 
+in the 20th century. In his spare time he helped invent the field of artificial intelligence. 
+Slater, Philip. "Democracy is Inevitable." Harvard Business Review, September/October 1990. 
+Best argument I'm aware of for this provocative thesis: "Democracy becomes a functional necessity whenever a social system is competing for survival under conditions of chronic change." 
+Smith, Reid G. A Framework for Distributed Problem Solving. UMI Research Press, 1981. 
+General computer science introduction to constructing programs that work in a distributed environment. 
+Smith, John Maynard. Did Darwin Get it Right? Essays on Games, Sex and Evolution. Chapman and Hall, 1989. 
+Deals with current controversies in evolutionary biology in an even-handed and intelligent way. 
+Sober, Elliott. The Nature of Selection: Evolutionary Theory in Philosophical Focus. The University of Chicago Press, 1984. 
+This is an incredibly profound book. It is a philosophical examination of evolutionary theory which begins with the frequent criticism that neodarwinism is rooted in a contradiction, that "survival of the fittest is a tautology." Sober illuminates this causality puzzle and then goes on to reveal evolution as a system of logic. His work should not be missed by anyone doing computational evolution. 
+Sonea, Sonrin and Maurice Panisset. A New Bacteriology. Jones and Bartlett, 1983. 
+The "new" here is a view that sees bacteria as not primitive and not independent, but as a superorganism communicating genetic changes worldwide and rapidly. 
+Spencer, Herbert. The Factors of Organic Evolution. Williams and Nograte, 1887. 
+At the time of Darwin, the philosopher Herbert Spencer had an enormous impact in forming popular notions of the meaning of evolution. As laid out in this book, evolution is progressive, internally directed to improvement and perfection, among other things. 
+Stanley, Steven. "An Explanation for Cope's Rule." Evolution, 27; 1973. 
+One of the rare accepted trends in biological evolutionÑincreasing size in animalsÑgets debunked. 
+---. The New Evolutionary Timetable. Basic Books, 1981. Gingerly considers selection of units larger than individuals and addresses 
+long-term directions in macroevolution, but does so without strong conclusions. 
+Steele, E. J. Somatic Selection and Adaptive Evolution: On the Inheritance of Acquired Characters. University of Chicago Press, 1979. 
+The controversial experiments of immunologist Ted Steele, who claims to demonstrate Lamarckian evolution in inbred strains of mice, is presented in the experimenter's own words. Steele's work has not been confirmed. 
+Stewart, Ian. Does God Play Dice? Basil Blackwell, 1989. 
+For technical insight on chaos and dynamical systems, a better book than Gleick's bestseller "Chaos." Stewart doesn't have Gleick's narrative flair, but he does go deeper into the whys and hows, with numerous graphs, illustrations, and a bit of math. 
+Stewart, Thomas A. "Brainpower." Fortune, June 3, 1991. 
+Article about the role of knowledge in creating wealth for companies. I picked up the term network economics here. 
+Symonds, Neville. "A fitter theory of evolution?" New Scientist, 21 September 1991. 
+In lay science terms addresses results suggesting "Lamarckian" evolution in E. coli soups. 
+Tainter, Joseph A. The Collapse of Complex Societies. Cambridge University Press, 1988. 
+I disagree with the author's basic tenet that declining returns on increasing complexity causes collapse of stable civilizations, but his argument is worth reviewing. 
+Taylor, Gordon Rattray. The Great Evolution Mystery. Harper & Row, 1982. 
+Taylor treats evolution as an unsolved mystery and trots out both conventional Darwinian explanations and conventional doubts about those explanations. It is the most palatable and easy to digest anti-Darwinian book, although a real skeptic of anti-Darwinism will need to proceed further via its good bibliography for the convincing details. 
+Thompson, D'Arcy. On Growth and Form. Cambridge University Press, 1917. 
+A classic reminder of the ubiquitous influence of form in life. 
+Thompson, John. Interaction and Coevolution. Wiley & Sons, 1982. 
+Solid compendium of the most current thinking, evidence, and analysis in coevolution. 
+Thompson, Mark. "Lining the Wild Bee." In Fire Over Water, Williams, Reese, ed. Tanam Press, 1986. 
+Story of the guy who put his head inside a wild bee swarm, and who writes about the meaning of bees and hives. Thomson, Keith Stewart. Morphogenesis and Evolution. Oxford University 
+Press, 1988. 
+A wonderfully refreshing and completely undogmatic view of evolution by a renegade group (the "heretics") at Yale. Thomson theorizes that internal constraints determine "themes" within evolution and "clusters" of species. Highly recommended. 
+Thorpe, Col. Jack. "73 Easting Distributed Simulation Briefing." Institute for Defense Analyses, 1991. 
+An executive summary of the Gulf War 73 Easting Simulation pitched to win support for further military simulations. 
+Tibbs, Hardin. "Industrial Ecology." Arthur D. Little, 1991. 
+This white paper for an industrial consultant is an early sketch of what a full-bore industrial ecology would look like. 
+Todd, Stephen, and William Latham. Evolutionary Art and Computers. Academic Press, 1992. 
+In addition to gorgeous color plates of William Latham's evolutionarily generated art forms, this book doubles as a technical manual for the computer science and philosophy behind the images. 
+Toffler, Alvin. PowerShift. Bantam Books, 1990. 
+Futurist Toffler speculates pretty convincingly on expected trends in a networked economy and society. 
+Toffoli, Tommaso, and Norman Margolus. Cellular Automata Machines: A New Environment for Modeling. The MIT Press, 1987. 
+Tiny universes created by simple rules as a means to explore world-making. This is the most comprehensive text on the science of cellular automata. 
+Travis, John. "Electronic Ecosystem." Science News, 140; August 10, 1991. 
+Good introduction and background on Tom Ray's artificial evolutionary Tierra system. 
+Vernadsky, Vladimir. The Biosphere. Synergetic Press, 1986. 
+First published (and ignored) in 1926, this Russian monograph has only recently garnered attention in the West. It is a poetic-scientific foreshadowing of the Gaian notion-life and Earth as one organism. 
+Vernon, Jack A. Inside the Black Room. Clarkson N. Potter, Inc., 1963. 
+An early follow-up to Hebb's original experiments in sensory deprivation at McGill University, Vernon did his at Princeton University during the late '50s in a soundproof room in the basement of the psychology building. 
+Vrba, Elisabeth S., and Niles Eldredge. "Individuals, hierarchies, and process: towards a more complete evolutionary theory." Paleobiology, 10; 2, 1984. 
+There is a hunch that large-scale pattern in evolution (macroevolution) derives from the hierarchical nature of nature. This paper makes a 
+preliminary case for the argument. 
+Waddington, C. H. The Strategy of the Genes. George Allen & Unwin Ltd, 1957. 
+The book that gave theoretical biology respect. Waddington wrestles with the influence of the gene's agenda upon evolution and tackles the Baldwin effect. 
+Waddington, C. H., ed. Towards a Theoretical Biology. Aldine Publishing, 1968. 
+For a field that lacks more than one example, biology has always yearned for more theory. These proceedings stemmed from a series of memorable symposia that Waddington hosted to launch a more comprehensive systems-style look at biological organisms. The "Waddington conferences" have taken on legendary status in the post-Darwinian community. 
+Wald, Matthew L. "The House That Does Its Own Chores." The New York Times, December 6, 1990. 
+Report on the opening of the first demonstration "smart" house in Atlanta. 
+Waldrop, M. Mitchell. Complexity: The Emerging Science at the Edge of Order and Chaos. Simon & Schuster, 1992. 
+A popular account of the Santa Fe Institute's approach to complex adaptive systems. Good stuff on economist Brian Arthur and biologist Stuart Kauffman. Waldrop's book is better than Roger Lewin's identically named Complexity, because he explains more and attempts to synthesize the ideas. 
+Warrick, Patricia S. The Cybernetic Imagination in Science Fiction. The MIT Press, 1980. 
+Science fiction has enlarged the thought space for imagining cybernetic possibilities, which science proper can later fill. 
+Weinberg, Gerald M. An Introduction to General Systems Thinking. John Wiley & Sons, 1975. 
+Helpful introduction course on "thinking whole." 
+Weinberg, Gerald M., and Daniela Weinberg. General Principles of System Design. Dorset House Publishing, 1979. 
+Perhaps the best book on modern cybernetics. Works well in a classroom because it includes cybernetic exercises. 
+Weiner, Jonathan. The Next One Hundred Years. Bantam Books, 1990. 
+A journalistic survey of our Earth as a closed system. 
+Weintraub, Pamela. "Natural Direction." Omni, October 1991. 
+Readable and fairly reliable report on Hall and Cairns's work on directed mutation in bacteria. Weiser, Mark. "The Computer for the 21st Century." Scientific American, 
+September 1991. 
+It may be a while, but I believe that someday this will be considered a seminal article staking out the role computers will play in our everyday lives. 
+Wesson, Robert. Beyond Natural Selection. MIT Press, 1991. 
+At times, a mere tedious cataloging of evidences and examples of nonadaptationist evolution. At rare moments, it gets to the "so what" of it all. I owe the late author a couple of key ideas. 
+Westbroek, Peter. Life as a Geological Force. W. W. Norton, 1991. 
+A geologist's personal recounting of evidence that life shapes rocks. 
+Wheeler, William Morton. Emergent Evolution: and the development of societies. W. W. Norton & Company, 1928. 
+An early, slim volume - a paper really - on holism. 
+Whyte, Lancelot Law. Internal Factors in Evolution. George Braziller, 1965. 
+An informed and bold speculation on the internal selection within the genome. Readable and thought provoking. 
+Wiener, Norbert. Cybernetic, or control and communication in the animal and the machine. John Wiley, 1961. 
+The germ of all cybernetic texts. Except for the preface, it is unexpectedly technical and mathematical. But worth delving into. 
+Wilson, Edward O. The Insect Societies. Harvard University Press, 1971. 
+An indispensable book of fascination, great insight, and clear, lucid science. Required meditations for Net-mind. 
+Wright, Robert. Three Scientists and Their Gods. Times Books, 1988. 
+Wonderfully crafted profiles of three world-class thinkers on a quest for the unifying theory of information. Wright has much to say about whole systems and complexity. Highly recommended. On rereading this book after I finished mine, I realize that it is probably closest to my own in spirit and range. 
+Yoshida, Atsuya, and Jun Kakuta. "People Who Live in an On-line Virtual World." IEEE International Workshop on Robot and Human Communication, technical report 92TH0469-7; 1992. 
+A fairly intensive study of users of a virtual networked world - Fujitsu's Habitat system in Japan - and how they used it. 
+Zeltzer, David. "Autonomy, Interaction and Presence." Presence: Teleoperators and Virtual Environments, 1; 1, 1992. 
+Locating autonomy and control as one axis of three in a matrix of virtual reality. (The other two are degree of interaction and presence.) 
+Zorpette, Glenn. "Emulating the battlefield." IEEE Spectrum, September 1991. 
+From the engineers' own mouths, a report on the new and increasing role of 
+simulations in warfare. 
+Zubek, John P., ed. Sensory Deprivation: Fifteen years of research. Meridth Corporation, 1969. 
+A compendium of survey articles reviewing the literature of sensory deprivation up to 1969, when this topic was fashionable. The effects of SD are about as elusive as those of hypnosis, and all the hopes for the field have evaporated as uneven data piled up. 
+Zurek, Wojciech H., ed. Complexity, Entropy and the Physics of Information. Addison-Wesley, 1990. 
+Some attempts to define complexity. 
+Cybernetics. Josiah Macy, Jr. Foundation, 1953. 
+Contains transcripts from one set of the Macy meetings. Including great dialogues of befuddlement as Ashby introduces his "homeostat machine." 
+Self-Organizing Systems. Pergamon Press, 1959. 
+The fascinating proceedings of a major conference with an all-star line up of principal cybernetic pioneers. After each paper is a revealing record of the panel discussions, where the true learning happens. Why don't other books do this? 
+Transactions of the 9th Conference on Cybernetics. Josiah Macy, Jr. Foundation, 1952. 
+Remarkable discussions that have hardly aged on the emergence of control in biological and 
+Annotated Bibliography: A to L... 
+ Digital Culture 
+Kevin Kelly's Out of Control:
+Is the flag waving? or the wind? ... or the mind?
+A Review By Richard Thieme
+Enculturation, Vol. 3, No. 1, Spring 2000
+One of the pleasures of reading a book like Kevin Kelly's 
+Out of Control in the year 2000 is that the book is much shorter. Of course, the number of pages in the book have not decreased, but six years is a century in Internet time, and Internet time is the clock that ticks as we revisit "The 
+New Biology of Machines, Social Systems, and the 
+Economic World." A backward glance at a future-oriented writer like Kevin Kelly who attempts to grasp, synthesize, and articulate for his readers the depth and breadth of the digital revolution in all its detail, with excursions into complexity, self-directed evolution, the digital economy, astronomy and cosmology, and by inference into anthropology, epistemology, ontology, and ethics - well, that's a lot to grasp, synthesize, and "repurpose" for even the most literate of the digerati.
+So, returning to this book felt like coming home from a 
+vacation to find Wall Street Journals all stacked up, three or four weeks deep, discovering, as you sort through them, that much of what would have seemed significant in the immediacy of the light of the day is in much greater perspective. Strikes are settled, earnings have been digested, the Fed has or has not acted, and much of the seeming urgency of those events when discussed in advance or at the time they occur has dissipated.
+We are all temporal provincials, living in the largeness of 
+the present, and trees crowd our field of vision, hogging our mental resources. Hindsight lets us edit our lives and the text of a book like Out of Control into an anthology of ideas, easily skimmable - and reduced in length at least by half.While that's always been true of books that intended to be 
+topical, it is doubly true in these Internet days, and triply true of writing about the Internet or the latest take on scientific theories of mind, matter, and cosmic mayhem - writing, that is, in BOOK FORM in the era of the rapid electronic dissemination of data, one-to-one and one-to-many. Despite the coming of e-books since Kelly penned this print-text tome, books are still embedded in the cultural matrix of the technologies that created them and made them portable and cheap. That may be changing too, and fast, oh fast, but the logistics of publishing in print still lengthens the process by which ideas are filtered onto paper pages. By the time those ideas make their way into the bookstore, they are often dated.
+As the author of online columns with a global circulation 
+via email (Islands in the Clickstream: www.thiemeworks.com), I know how quickly the currents sink what seemed so relevant only yesterday (remember push technology? how about the paperless office? or building "mindshare" for a business without worrying about a positive cash flow?). Ideas and insights that sound profound at the striking of midnight seem pretentious in the light of the next morning, like coming onto the Las Vegas strip at ten in the morning and seeing the glamorous neon-reddened world for what it really is.
+New technologies, heralded as the wave or emblem of the 
+future, are often roadrunners heading toward the edge of a cliff, and these days we work closer to that edge than ever. Kelly called Out of Control "an update on the current state of cybernetic research," which means that we must read this book now as a part of "intellectual history," locating it in the shallow choppy waters of the recent past and trying to separate the treasure from the trash.
+"I live on computer networks," Kelly writes, emphasizing 
+his digital credentials as a forerunner of cyborg humanity, plugged in and turned on 24/7. But maybe we need to remember that the human mind creates as its field of perception a foreground and a background, just as it cannot escape weaving space, time, and causality into everything it thinks it sees. We are always like the ape that learned to draw for the first time and used a piece of 
+charcoal to draw the bars of its cage. The network, complexity, and all the fractal-like connectedness between the ideas explored in this book were so much in the foreground because they were new. They seem to eclipse everything that came before, we seem to be living already in a new landscape, when in fact we are as always locked into the process by which the thesis posits its own antithesis, still very much on this side of a synthesis.
+For all his executive editing of Wired and immersion in that 
+new world, Kelly chose to write Out of Control as a book. Nearly of his references to others' ideas are to books, magazines, journals, i.e. the world of text that formed him and in which he still lives and moves and has his very being. Well, it takes one to know one. I am a middle-aged man who began writing short stories as a teen and taught English literature at the University of Illinois in my twenties. I too span a divide between worlds that we can only see so clearly because we are a bridge generation. But this side of the divide, a different generation, socialized into the world we knew only by contrast with the one in which we were born and raised, speaks a completely different language.
+This is noticeable even in the short generations of 
+"computer hackers." The founders of Def Con, the annual convention for computer hackers that is eight years old 
+now, grew up with the network, formed by and forming it in 
+a symbiotic relationship. Now in their late twenties, early thirties, they are challenged to mentor a new generation of hackers who grew up never not knowing the network, never without video games, never without a hundred channels of choices. The network for younger hackers in their teens is water to a fish. Not for them the astonishment of landing on the moon and NOT sinking into the dust. Their astonishment will come with extraterrestrial contact made known and explicit, with the finding of life near the thermal vents of Europa, the terraforming of Mars, the building of habitable structures somehow in the methane-thickened mists of Titan ... and these are merely the things we know we will do and experience as we come down the steps of our planet like toddlers leaving the front porch for the first time. We have 
+not even crossed the street yet, much less left our familiar neighborhood.
+Out of Control describes the way the mind of a text-man 
+like Kevin Kelly felt as it reeled from exploring new vistas, new ways of constructing the cultural lenses that will 
+enable humankind to soar out of the deep cave of the 
+earth into space like bats at twilight. It is not the universe or the world or even human culture that is out of control, but the great airplane of this man's mind as it struggles to make the stabilizers work.
+Out of Control is the attempt of a text-man, then, tangled 
+in lanyards and lariats of words and typographical symbols, to move into a new world defined by complexity, new models of systems living and half-living and non-living alike, a world in which cyborg-humanity no longer even finds the bladerunner question surprising, "How can it not know what it is?" Like Deckard suspecting that he himself is a replicant, we are looking into the polished mirror of our evolving technologies and seeing our cyborg face look back.
+So really to achieve what Kelly set out to achieve those 
+long six years ago, we must integrate the work of a generational anthropologist, one who has the insight and detachment to live among short discrete generations like a social scientist among tribes, listening to the children like those assembled by Sony in a lab behind one-way mirrors to show the inventors of the Play Station how it might be used. Kelly gave it a great effort, but he was simply too close to the trees ­ interesting trees, these various pioneers of thought and invention he sought out and interviewed, and interesting branches, these half-formed theories of life, the universe and everything else, and above all, interesting fruit, these "wholes, holes and spaces" that hang in the void like stars, like the "heaventree of stars hung with humid night-blue fruit." But still, for all that, trees and not the forest.
+Out of Control is an interesting compendium, encyclopedic 
+in form and narrative structure, rather than a synthesis of ideas into a new holistic vision. Like Wired, the magazine 
+Kelly edited before it sold itself down the river and morphed into a slick version of People Magazine for affluent youth beset with technolust, the book shows the strengths and weaknesses of the short-lived rag. Too much tree, not enough forest. Still, like the old Wired, the book is a fun read, even if it's a skimmer now and not a Deep Think. Kelly did track down a lot of interesting people and ideas and combine them into a roller coaster narrative of emergent ideas, technologies, and nascent possibilities of the cybernetic age.
+Let's use that now-familiar concept, "emergent realities," 
+as an example of the problem always raised by the literary genre, "futurism."
+"I often use the word 'emergent' in this book," Kelly says, 
+"[which] as used by practitioners of complexity means something like 'that organization which is generated out of parts acting in concert.' But the meaning of emergent begins to disappear when scrutinized, leaving behind a vague impression that the word is, at bottom, meaningless." Kelly substitutes the word "happened" for every instance of "emerged" and discovers that it works just as well. Why? Because "emergent" is descriptive, not explanatory, and is widely used to escape the challenge of real explanation, with all the causality, complexity, and deeper meaning that requires. "Emergent realities" turn 
+out to be those that show up, somehow, and which we can 
+not explain. Which reminds us that only the predictable is predictable and the genuinely new can never be articulated clearly from inside the old model of reality. So like religious prophets, we use archetypal symbols in the style of the Apocalypse of St. John in the Christian scriptures, letting readers project the concrete contents of their lives onto those images and symbols. "Emergent reality" is one of those symbols so it can mean anything that we want it to mean.
+So reading Out of Control in the year 2000 reveals how 
+difficult it is to see the genuinely new and say what we see. Nietzsche described original thinking as the capacity to see just a few minutes before the herd what is coming over the near-term horizon and giving it a name. When 
+others use those names, they validate our prophetic insight and vision. The high calling of philosophy turns into a name game. But for all his bold new aphoristic style, Nietzsche too was constrained by the way text happens, how it means, how it discloses meaning from its far horizons toward the minds of future readers. For all its stylistic variation, even hypertextual books are books, defined within the more linear contours of the ways they make us think. Hence books like Out of Control still calibrate historical events in linear time in a way that is anathema to genuinely digital thinkers. Those cybernauts who surf non-linear systems, discerning the potential energies of multiple futures fanned out scenario-like in a quantum card-game, a random hand, would never write "Out of Control." In fact, they aren't. They are doing 
+something else entirely, something for which we do not yet 
+have the easy names.
+Out of Control is not describing reality "out there," after all, 
+but reality "in here." Of course there is no "out there," and in fact, there is no "in here" either, but I think you know what I mean. We are trying to define the interface where "out there" and "in here," both illusory, define the human condition as a possibility for action. That's what cultures enable, after all, new ways for us big-brained animals to hold ourselves as possibilities for action, free of some of the constraints of our genetic heritage at the same time we are defined by them. To be a possibility for action here and now is what we mean by "having a future." But of course, there is no such thing as "a future" either.
+A friend and I recently had to separate before finishing our 
+conversation. "So call me," she said, "and finish our talk. But call me! Don't send me an email. I want to talk to a real person."
+The Zen-spirits roared with laughter in the vast monastery 
+of the planet earth as she turned appearance into reality. The telephone rings or plays a few chords or vibrates on my cheek bone and I say "Hello." The voice I hear is not a real person but a signal reconstructed from the breaking apart and recombination of what once upon a time was a human voice. But I have so internalized that experience as 
+meaning that "a real person is calling me" that I distinguish it from the "unreal" experience of an email, mute on my monitor, seeming like signing in the noisy world of my mind.
+The operative word is "call." Once we have a word like 
+"call" to mean not only the receipt of an email but the 
+multiple kinds of experiences explored by Kevin Kelly that have not yet been internalized as normative human experience in our cyberculture hive mind, then the world will not feel nearly so "Out of Control." It will feel, on the contrary, tamed for the moment, before the next wave breaks behind and knocks us down. But then, the waves are always inside, inside that field of subjectivity that defines human consciousness, where everything is always happening anyway.
+Except that to restrict consciousness to the mental field of 
+humankind merely is SO twentieth century.
+I hope this little reflection does not sound critical of Kevin 
+Kelly's fun book, which is a wide-ranging compilation of 
+interviews, ideas, and then-current techno-fashionable words. Writing a book like Out of Control as anything other than an encyclopedia or "road trip" of the inquiring mind was simply not possible. Because of what "writing a book" means. The book was congruent with the best efforts of a lively inquiring mind to surf the intellectual currents it hoped to understand, so it had to lack perspective. How can a book about this kind of non-book reality not lack perspective? The larger pattern it sought to discover or create did not yet and does not yet exist, and Out of Control did not finish the job so much as show us how difficult the task of self-definition during a transitional era really is. If the "book" or digital form that finishes that task does exist, it is being written by someone else whose genius has not yet been recognized. But then ... the whole notion of a piece of "intellectual property" written by "an author" rather than a collective identity into which our "individual identities" merge (and individual identities like individual rights are only a few hundred years old) ... that's a wistful romantic idea that evokes nostalgia from those who are increasingly embedded in the wireless and wired 
+network that is turning us all into nodes with names assigned dynamically, on the fly, rather than named forever at an arbitrary moment of birth. Our second birth, said Carl Jung, is our own creation, and one can't fault Jung either for not knowing that humanity would soon have the opportunity to choose identities for a third birth, a fourth birth and many more as longevity stretches toward 150, 175, even 200 years and the life span of a tortoise brings social challenges we can not even think yet ­ to our long-term memory storage devices, our sense of the persistence of a single self, and what in fact we decide it means to be a human being.
+This compendium of insights and ideas attempted to 
+define a new world before it had been formed. The book hovers over the darkness and tries to say, "Let there be light," and the crackling of the static brightens for a moment and then fizzles. The new world is being formed out of an interaction between these first bold visions of itself, all blinding in its impossible new births, and the way we will subsequently come to nuance the complexities of what we can realize only afterward when we recontextualize ourselves in a self-transcendent fractal-like climb up the spiral of consciousness. That time is almost here. But not quite.
+Out of Control is a fun collection of snapshots taken by the 
+thousands by someone with a new digital camera. Many 
+are interesting, some are terrific, and a few are mind-blowing winners. But a shoebox full of glossy prints is not an art show. Kelly did the best he could, given that the enemy is how our brains think about things, which in retrospect is one definition of the limitations inherent in this book.
+We can only know that which the knowing of which no 
+longer threatens our identities or selves with annihilation. The new paradigm is only grasped after the shock of change has been absorbed and we sit up again, rubbing our heads, looking out at the landscape with wonder. It was fun to visit these ideas, people, and places once again, like any nostalgic road trip is fun, and a little wistful and melancholy. We know at the end of the trip that the 
+most we can know is how a wave might break as it gathers momentum and the most we can do is surf the wave and enjoy the ride, breathing the ozone at the edge of the curl of consciousness trying to understand whole an impossible collection of fragments. That is a challenge we can't seem to resist ­ writing books like "Out of Control," knowing our inadequacy to the task of defining the Bigger Picture. Crawling like miners with lamps on their hats through a long tunnel in the vast mountain of darkness, looking at the square foot of illuminated earth in front of our faces and thinking we see where we're going, our audacity more than equal to Kelly's in writing that book, i.e. writing a review like this only six years later and pretending that everything in the past, although obviously as much a mystery as the present and the future, can be 
+somehow understood.
+Works CitedKelly, Kevin. Out of Control: The New Biology of 
+Machines, Social Systems and the Economic World. Reading, MA: Perseus Press, 1995.
+Originally appeared in Enculturation, Vol. 3, No. 1, Spring 
+2000. Post-Digital Studies.Copyright (c) 2000. All rights reserved. 
+BACK 
+TOP 
+©2001 Richard Thieme. All Rights Reserved.'The Nine Laws of God': 
+Kevin Kelly's Out of Control Techno- 
+Utopic Program for a WIRED World
+by William Grassie
+Temple University
+ 
+Keywords: Kevin Kelly, WIRED Magazine, Out of Control, technology, utopia, ecology, Naturalistic 
+Fallacy, Stewart Brand, Whole Earth Review, Social Darwinism, metaphysics, ethics.
+Abstract: "The Nine Laws of God" are Kevin Kelly's attempt to metatheorize natural and cybernetic 
+creativity in his paradigm shifting book Out of Control: The New Biology of Machines, Social Systems, and the Economic World. Kelly is the executive editor of WIRED Magazine. He offers a theology of nature conversant with the cutting edge of complexity theory, robotics, artificial evolution, virtual reality, neural-nets, artificial intelligence, genetic engineer, environmental restoration, computer networking, and market capitalism. Kelly postulates principles of natural creativity on which human creation should follow. There is however little ethical reflection. Central to Kelly's project is a techno-utopic vision of benevolent laissez faire evolutionary and market forces. Whether and which humans and nonhumans thrive or survive does not appear to be relevant in Kelly's analysis. If interpreted as natural law, however, Kelly's "Nine Laws" would suggest a more humble approach towards maintaining and encouraging cultural and ecological diversity.
+Presented to the Theology and Science Working Group 
+of the American Academy of Religion in 
+New Orleans on November 24, 1996. 
+Forth-coming in Terra Nova: Nature and Culture, Fall 1997.
+Comments welcome!
+Foreword: Explorations of the interface between religion and science, and therefore also between culture and nature, are ancient intellectual disciplines. Some make the distinction between natural theology, theology of nature, or religious naturalism. However one construes this interface, we are compelled to take into account sciences' ever new descriptions and manipulations of natural processes. These descriptions of nature explicitly and implicitly evolve into prescriptions for human thought and behavior. Contrary to the positivist tradition, our scientific understandings of nature necessarily become symbolic values in our reconfigurations of human culture. In the late twentieth century, at the end of the 
+Cenozoic era, our techno- cultural unfolding has also become a significant factor in the present evolutionary trajectory of our planet. The question is not whether we are going to commit the Naturalistic Fallacy, but how. Human creativity is a Lamarckian wild card in the epic of evolution. Metaphysics becomes politics by other means.
+********
+"The Nine Laws of God" are Kevin Kelly's attempt to metatheorize natural and cybernetic creativity in his shape-shifting book Out of Control: The New Biology of Machines, Social Systems, and the Economic World. Kelly is the executive editor of WIRED Magazine and the former editor of the Whole Earth Review, so he is well positioned to engage in these journalistic readings of the new sciences of complexity. In his book and in the pages of WIRED magazine, we are presented with a kind of postmodern natural theology that is conversant with the cutting edge and uncharted boundaries of many new research projects. Among other topics, we read about artificial ecologies, the telephone system, human consciousness, computer virus incubation, robotics, virtual reality simulations, electronic cash, computer animation, ecological restoration, Postdarwinian evolutionary theory, economic markets, social insects, and the computer modeling of the whole planet.
+The problem and opportunity Kelly sees is in the breakdown of the boundaries between the natural and the artifactual. "The realm of the born -- all that is nature -- and the realm of the made -- all that is humanly constructed -- are becoming one," writes Kelly. "Machines are becoming biological and the biological is becoming engineered" (1).
+The problem is that science and engineering are dominated by top-down, linear, reductionistic, control paradigms, while the complex creativity of natural processes, and increasingly also the complex creativity of economies and technologies, require decentralized, networked, nonlinear modes of design and formation. In order to understand an ecosystem or a complex business enterprise, we have to jettison hierarchical and mechanistic models and adopt biological models. Kelly celebrates the advent of a "neo-biological civilization," but the price will be giving up control, hence the strange and provocative title of his book.
+"Yet as we unleash living forces into our created machines, we lose control of them. They acquire wildness and some of the surprises that the wild entails. This, then, is the dilemma all gods must accept: that they can no longer be completely sovereign over their finest creations.
+The world of the made will soon be like the world of the born: autonomous, adaptable, and 
+creative but, consequently, out of our control. I think that's a great bargain" (4).
+In this essay I will explore Kelly's thesis to which I will then pose an antithesis. Kelly's concern is with god-like creativity; my queries will be about god-like moral constraints on creativity. Kelly celebrates being "out of control;" I will problematize this as a dangerous addiction. Kelly offers "nine laws" for 
+would-be gods; I will invert his guidelines to serve as ethical constraints that might limit his techno-utopic program for a WIRED world. In true dialectical fashion, however, we must look beyond this thesis and antithesis to a creative synthesis. That possibility is being played out in our life time in an epochal moment in our cultural evolution and natural history.
+First, let me introduce my conversant and the publishing phenomena with which he is associated.
+********
+Kevin Kelly is a brilliant scholar and a gifted writer; he is as friendly as he is smart. Largely self-taught, 
+his formal education ended with high school. In 1969, he discovered the first Whole Earth Catalogue and was smitten with Stewart Brand's vision of access to tools and knowledge for individual empowerment and self-education, so he found something better to do than college. With a backpack and camera, Kelly wandered Asia from 1972 to 1978 -- Japan, Korea, Philippines, Thailand, Burma, Bangladesh, India, Nepal, Afghanistan, Iran, Turkey, and Israel. After a religious conversion experience in Jerusalem, Kelly headed back to the United States where he reconnected with family members by biking and hiking and working around.
+In 1984, Kelly moved to the San Francisco area to work on the production of a new permutation of 
+Whole Earth Catalogue. Within six months, this rookie was promoted to editor of the quarterly Whole Earth Review. The purpose statement of the Whole Earth Catalogue helps frame much of the discussion which follows, because Kelly is very much a Stewart Brand protégé.
+"We are as Gods and might as well get good at it. So far remotely done power and glory -- as via government, big business, formal education, church -- has succeeded to the point where gross defects obscure actual gains. In response to this dilemma and to these gains, a realm of intimate, personal power is developing -- the power of individuals to conduct their own education, find their own environment, and share the adventure with whoever is interested. Tools that aid this process are sought and promoted..." (Whole Earth Catalogue, 1986, 2).
+Getting-good-at-being-like-gods is a pretty succinct description of the larger issues which motivate Kelly's project. But Kelly also believes in the One God. A lapsed Catholic, Kelly's conversion experience on Easter morning in the Church of the Holy Sepulcher in Jerusalem led him into the Evangelical fold. He is currently a member of Alma Heights Christian Fellowship, a non-denominational evangelical congregation and school, and has participated in a weekly Bible study group for some twelve years. His personal and social morals are distinctly conservative, which make him a strange figure in counterculture publications Whole Earth Review and WIRED.
+Except for the vague Libertarian philosophy expressed in the purpose statement of the Whole Earth 
+Catalogue or implied in the pages of WIRED today, one would not tend to read into Kelly's work any particular social, political, or religious agenda; except that he frequently takes environmentalists to task. 
+Kelly thinks of himself as a journalist, not a social advocate, but as we will see there is much more going on in his Out of Control book and in the pages of WIRED than just journalistic reflection. Kelly offers us a powerful lens for both understanding and transforming our world.
+WIRED never tires of telling us that this technological stuff is a revolution, and the "digerati" are the 
+revolutionary vanguard. WIRED is "the mouthpiece of the digital revolution." Kelly's 1994 book can be read as the intellectual blueprint for the magazine and therefore also a theoretical apparatus for this revolution. WIRED is one of the fastest growing magazines in America. As executive editor, Kelly has gone from the counterculture to the new culture, from the economically marginal to the centers of economic power.
+From a startup circulation base in 1993 of 85,224, WIRED has grown to a base circulation of over 
+300,000 in 1996 with a staff of over 300. Hotwired, its spin-off publication on the Internet <
+http://www.hotwired.com>, is one of the most successful Internet sites in the world. WIRED has also 
+set new trends and standards for graphic design with its flashy, fluorescent, in-your-face graphics that blur the boundaries of copy and advertising. Like other revolutionary journals of the past, the boundaries between social historical necessity and utopian ideology blur. Like all revolutionaries, we'll discover a potent doses of powerful creativity, disarming sincerity, and naive idealism.
+Don't let the twenty-something, hip, body-piercing, androgynous, multicultural persona of WIRED fool 
+you. The readership is 87.9 percent male and an average age of 37 years. 48 percent have post-graduate education or better with an average household income of $122,000 per year. The average net worth of a reader's household is $603,000 with an average market value of current investments at $251,000. What we have here is a profile of the emerging technocratic ruling class that will dominate economics and culture in the 21st century.
+Averages lie, of course, but advertisers love 'em. With this kind of readership survey, the advertising 
+budget is substantial. Among the long list of product advertisers are several liquor companies, most prominently Absolut Vodka. And while Kevin Kelly himself is practically a teetotaler, Absolut is one of WIRED's most loyal advertiser and evidently Kelly's biggest fan. Kelly was recently honored in two issues of WIRED with $22,000 back cover ads under the title "Absolut Kelly," depicting mechanical insects and the quote "Life is the ultimate technology" from Kelly's book. Is this advertising or magazine copy? In WIRED you always have to do a double take.
+(The connection with a hard liquor manufacturer and the addiction reversal I am about to enact on Kelly's 
+Out of Control book should not be construed as an ad hominem attack on Kelly. He is not Absolut; WIRED is not Tanqueray. Nevertheless, one has to wonder about the prominence given in the online 
+HotWired to the weekly cocktail recipe - res ipsa loquitur.)
+WIRED, Inc. is itself also a kind of icon for a bio-historical forces that are transforming the world. 
+Housed in on the 4th floor of an old warehouse in San Francisco, the office is a bee hive expanse of the latest greatest computers set up on slab tables balanced between file cabinets, with minimal space 
+dividers. Network and phone wires run everywhere. Music plays in the background, as the 300 plus, mostly young worker bees and drones move efficiently through the motions of putting to press the next great "happening." Indeed, every issue of WIRED is a happening. Mean while a floor below WIRED's office, mostly immigrant workers labor in the more traditional sweat shop of a garment manufacture for minimum wages. So the offices of WIRED are marked as a poignant icon for a future tale of two cities and a world divided between the haves and the have-nots and have-beens of the 21st century. Welcome to our neo-biological civilization!
+*******
+"The Nine Laws of God" is Kelly's attempt to summarize and metatheorize the nature of complex creativity as presented in his Out of Control book and expounded in the pages of WIRED. I will argue that these types of insights about biology and technology really must serve as data in the construction of our postmodern natural theology and then also postmodern natural law ethics. In an evolutionary universe, we need to understand machines not only as technological artifacts of science and culture, but as natural phenomena for scientific and religious reflection. Automobiles are every bit as natural as trees, they just have a more complicated sex life and appear to be dangerously dysfunctional. Natural theology today must consider not only the lilies of the fields, but the parking lots filled with cars.
+Kelly postulates these nine principles of natural creativity and argues that they should guide human 
+creativity in our neo-biological civilization. The Nine Laws of God are:
+●     Distribute being; 
+●     Control from the bottom up; 
+●     Cultivate increasing returns; 
+●     Grow by chunking; 
+●     Maximize the fringes; 
+●     Honor your errors; 
+●     Pursue no optima; have multiple goals; 
+●     Seek persistent disequilibrium; and 
+●     Change changes itself. 
+Let me briefly explain what Kelly means by some of these terms while exploring a few of the scientific examples that he uses. Let's be clear that Kelly thinks of these "Nine Laws" as heuristics, not really laws, as inferences, and not really deductions, about the patterned complexity in nature and technology.
+********
+On a clear June day, I suit up in white overalls, gloves, and head-netting to go add honey supers in my apiary. Like Kevin Kelly, I am a bee hobbyist. We share in the fascination of working with these industrious insects. Apis mellifera are one of those strange natural phenomena, whose 7000 year domestication into human agriculture has not diminished their wild logic. Unlike the other animals in the 
+barn yard, my insect "pets" show little regard for their human "care-taker," if that is what I can be called. Each bee hive is a radical matriarchy, a society dominated by a sisterhood and their queen. From the whole hive emerges a common identity, which is much more than the sum of its parts.
+On this bright day, the hives have already been active for several hours. Their numbers have grown in 
+only six weeks from a few hundred to perhaps 20,000 per hive by early-summer. Bees stream in and out of the narrow openings, returning laden with nectar and pollen from the blooming trees and field flowers of the surrounding country-side. It is a wonderful experience to be working in the presence of this humming activity. In dissecting a large hive, one can not help but be awe struck by elegant synergism of these insects hard at work. They exhibit a strange collective consciousness in their daily toils and prolific production. In August I will steal some 20 gallons of honey from the five hives in my garden.
+"The Hive Mind" is the title of the second chapter in Kelly's Out of Control book. Kelly ponders the 
+emergent nature of these gifted social insects. The hive is often referred to as a "superorganism," because it exhibits emergent properties which could not be inferred or deduced by studying individual bees. The whole is more than the sum of its parts.
+The life in the bee hive looks a lot like a typical day at my university or any large organization. Students, 
+faculty, support staff, and administrators running around, sending conflicting messages, with only the facades of hierarchical decision-making. Most parts don't know what others within the system know, experience, or do, but out of this chaos emerges a rather amazing entity called Temple University. Out of the many parts a functional holism flourishes.
+Kelly reminds me also that my brain is a lot like a bee hive. One hundred billion individually stupid little 
+neurons generate trillions of synaptic connections emerging into the totally unrecognizable activity of "me" -- communicating these thoughts and "you" presumably understanding them. The perceptions and memories of these inscriptions on this page are distributed throughout the neural network, such that I might loose a pieces of my brain and still retain my memories.
+Kelly notes that "the duality of body/mind or whole/part simply evaporated when holistic behavior 
+lawfully emerged from the limited behavior of the parts" (11). Let's try to remember this as we make our "individual" ways through the larger collective identities which shape our world. We too are limited parts of greater wholes.
+What happens when we take hundreds of millions of individually stupid computers and we network 
+them, asks Kelly. "More is different," notes my protagonist, especially when the more is connected in a web of parallel operations like the telephone system or an ecosystem. Kelly coins the term "vivisystem" and "swarm system" to denote complex processes of many autonomous parts, influencing each other through high connectivity without centralized control (22).
+There are lots of benefits to swarm systems, not the least of which is life and consciousness. Kelly notes that swarm systems are 1) adaptable to new situations, 2) evolvable over time, 3) resilient to disruption 
+through their parallel redundancies, 4) boundless in their expansive replications, and 5) productive of endless novelties. The problem is that swarm systems cannot be optimized, cannot be controlled, cannot be predicted, cannot be booted up quickly, and cannot be understood through linear models of causation (22-23). Chaos author, James Gleick, calls it mapping "the morphology of the amorphous" (25); something that we theologians are a lot more comfortable with than orthodox scientists.
+Perhaps you can begin to see the shape of Kelly's "Nine Laws" beginning to emerge in the discussion 
+above. "Distribute being" and "control from the bottom up" are the laws of the bee hive. If we want to be really creative, "to incubate something from nothing," we'll have to follow the wild logic of the swarm (468).
+"The modern world," writes Kelly, "is being paved with mirrors. We have ubiquitous TV cameras, and 
+ceaseless daily polling... A steady paper trail of bills, grades, pay stubs, and catalogs help us create our individual identity... Every consumer becomes both a reflection and a reflector, a cause and an effect" (72). But there is nothing new here, because this is what nature has been doing for eons. Species always coevolve with other species as both cause and effect in a dynamic feedback loop called life. There is little linear here in the evolutionary process; life is strange solipsism of everything influencing everything else and being influenced in return.
+Half of all species are parasitic, notes Kelly, so we live in a world of codependents (75). Indeed, it is not 
+unjustified to re-conceptualize our bodies and our selves as elaborate condominiums for microbes. Parasitism is the evolutionary pathway to symbiosis, which Kelly defines as "obligated cooperation." As it is in nature, so too in business. The economic world is also about coevolution, codependency and obligated cooperation. Like life, the economic world is also a house of mirrors. Macro-economics, or "bionomics" as Kelly prefers to call it, is really just an extension of an evolutionary Ponzi scheme.
+Consciousness too displays this perplexing nonlinear logic of perception effecting conception and 
+conception effecting perception. Consciousness is like a Mobius strip in infinite regression, except nothing is ever really repeated. And according to the Second Law of Thermodynamics, not only our brains, but the whole universe is in a state of disequilibrium and the Living Earth most of all. Kelly writes that "The chase arrives at the odd conclusion that consciousness, life, intelligence, coevolution are off-balanced, unexpected, even unreasonable, given the resting point of everything else" (76).
+In 1926, long before Lovelock's analysis of the global thermodynamic instability led to the Gaia 
+hypotheses, the Russian geologist Vladimir Vernadsky had already presented the outline of his theory of a living planet. Kelly quotes Vernadsky: "Living matter is the most powerful geological force and it is growing with time" (82).
+It is in disequilibrium that creativity is born, not in business-as-usual. Indeed, Kelly points out, 
+equilibrium is a good definition of death. Life, consciousness, and creativity are the product of the flux. Change is good and it will keep changing itself. Here, Kelly explores the new theories of patch ecology, punctuated equilibrium, and ecological turbulence. These new theories conflict with traditional 
+environmentalism's project of conserving undisturbed habitat in order to protect ecological diversity.
+"[T]he idea that the elements of instability are the root of diversity runs counter to one of the hoariest dictums of environmentalism: that stability begets diversity, and diversity begets stability. If natural systems do not settle into a neat balance, then we should make instability our friend" (94)
+Kelly, however, gives us no tools for evaluating how much disruption is healthy and at what point disequilibrium becomes simply crash and burn. Without an evaluative framework, these disequilibrious insights become dangerous rationalizations for anything goes in environmental policy. Is the burning of fossil fuels changing the atmosphere? Nothing to worry about over the vast expanse of evolutionary time. Are species going extinct? It is just a continuation of evolutionary creativity.
+So the moral of the Kelly's story about disequilibrium is to surf the thermodynamic wave to the creative 
+edge. Don't worry about how humans are changing the Earth. We are just a new phase of the creative evolutionary instability. Get the deadening, equilibrium-seeking regulations of environmentalists and social justice advocates out of the way; let the evolutionary free market exercise its creativity through our distributed being. So in the "Nine Laws" of Kelly we find "seek persistent disequilibrium" and "change changes itself" (468).
+Kelly celebrates the emergence of the super hive mind of the Internet and the cashless society. "Hidden 
+in the Net," writes Kelly, "is the mystery of the Invisible Hand -- control without authority" (26). Here we see Kelly's repeated use of Adam Smith's metaphor of the Invisible Hand guiding the economic market place to the mutual enhancement of all selfish-rationalizing components. This metaphor is central to Kelly's project and self-understanding. For whether it be in the technological market place, the economic market place, or the evolutionary market place(s), Kelly is above all a free market optimist. He believes in the Invisible Hand. Hence, the luxury that he grants himself to simply ignore questions of moral constraints and self-creative responsibility.
+So while Kelly writes a chapter on Postdarwinism that would offend orthodox Neo-Darwinist's 
+sensibilities with notions of symbiosis, directed mutation, and self-organization, he turns out to be fully committed to a kind of Social Darwinist laissez faire social- techno- evolutionary nonpolicy. And while Kelly advocates biological design and ecological restoration, he wants no traffic with limits-to-growth environmentalism or eco-romanticism. He might write about German and Danish industrial ecology, but he wants nothing to do with the decades of political advocacy and government regulations that create such models.
+Of the many interviews in his book, the only person Kelly is openly disrespectful towards is Dana 
+Meadows, co-author of the Limits to Growth studies. Kelly finds flaws in the computer-modeling and expresses contempt for environmentalist nay-sayers to technological progress. Indeed, when queried directly the only technology that Kelly expressed any moral ambivalence about was germ-line engineering of the human genome.
+In a scathing interview-debate with Neo-Luddite Kirkpatrick Sales that appeared in WIRED 3.06, Kelly 
+expressed contempt for this paper-tiger environmentalist. The two ended with a paper bet of $1000 that global economic, environmental, and social collapse would/would not occur in the next twenty-five years.
+Kelly gets impassioned talking about "Tree Huggers, Deep Ecologists, and Neo-Luddites." In an 
+interview, Kelly explains this contempt:
+"When you have a bad technology, the answer is better technology; when you have a bad thought, bad thinking, stupid ideas, the answer is not no thinking, no ideas, but better ideas. Technology is a thought, a kind of thinking with material, thinking out loud with the things we make."
+Well, I'm all in favor of better technology and better thinking, but the criteria for betterness needs more explication. There is here in Kelly's words also a profound moral confusion in the conflation of thinking and doing. We can have many different thoughts and feelings; when we enact them in the world, they are profoundly different. Technology is more than just a thought. Technology is an enactment of thoughts with real repercussions in social and biophysical worlds.
+In the short space of my 40 years of life on this planet, the human population has doubled to 5.6 billion 
+souls. In the same period, the consumption of fossil fuels has more than quadrupled, fueling previously inconceivable wealth and prosperity, as well as pollution.1 This exponential growth in population and consumption patterns is unprecedented in human history. Humans have already significantly altered every bioregional ecosystem on the planet and the chemical composition of the atmosphere as a whole. On the microcosmic scale, humans are re-authoring and re-assembling the atomic, chemical, and genetic structures of our world.
+So it is time to present my antithesis to Kelly's thesis. Let me now invert Kelly's optimistic naiveté and 
+turn Kelly's utopic daydream into an apocalyptic nightmare. Let us simply re-metaphorize the title from "Out of Control" [this is fun] to "Out of Control" [help!]. We are already out of control and that is precisely the problem.
+Progress and growth are the economic and political idol of our society. It would seem irresponsible in the 
+current climate not to advocate growth. Seen in biological terms, however, the economic idol of compounded interest may be part of a human development pattern on Earth more akin to cancer within an organism or a weed species within an ecosystem. Species that grow exponentially, take for instance a simple culture of E. coli in a petri dish, eventually exhaust their ecosystem and experience a population collapse.
+We still don't know what the future holds for the more complex cultures of Homo Sapiens. For a third of the world, the collapse of human cultures and populations is not an abstract possibility, but the daily 
+struggle to survive malnourishment, disease, unemployment, cultural dislocation, and the social unrest that accompany such deprivations. Half of the world's 6000 languages are expected to go extinct in the next generation, to be replaced no doubt with the music of Michael Jackson and videos by Disney. So for many today, brought to my comfortable home and consciousness through the global media, the collapse has already begun. It may be all they have ever known of a brief and bitter life on this planet.
+Some 14 million children will die of poverty related causes this year, a death toll in children alone that 
+exceeds the peak death toll of any year of World War II. Hidden in this mind numbing statistic of suffering is also the incredible success story of a vast drop in per capita rates of infant mortality since 1945. Is the cup half full or half empty or both? I know of no moral calculus that allows us to rank such suffering and/or progress, except to say that the mortal dangers and moral choices that impinge on our era are no less than those that challenged the world over 50 years ago. In the words of Auschwitz survivor and international lawyer, Samuel Pisar: "Today, the dangers are of a different order -- more complicated, more universal, more widespread... the enemies are manifold; they are everywhere and nowhere; they are difficult to locate, difficult to resist, and difficult to contain" (Pisar ,1980, Of Blood and Hope, 307). So it would seem that the dangers of our time are also nonlinear, swarm-like complexities, that cannot be predicted, adequately understood, nor easily controlled.
+Kelly feels confident that the world will not experience economic, environmental, and social collapse. 
+My reading of human and evolutionary history is less sanguine. We are all suspect in this debate. Kevin, you, and I live comfortably in the United States, privileged among the privileged of the world. There is a knowing part of us that should look over our shoulder as we travel through the days of the week going about our pressing business-as-usual. Vast regions of the Earth have been damaged, species are going extinct, the entire planet is in the midst of a technological domestication, in what can be understood as a new chapter in the evolutionary epic of the planet. Kevin Kelly certainly helps us to better understand this epic evolutionary moment, but the WIRED utopic daydream is also an apocalyptic nightmare.
+One such nightmare came for me in a special issue of WIRED entitled Scenarios: The Future of the 
+Future. In one article, WIRED created a fictional interview from the year 2020 with the doctor who discovered the cure for the so-called "Mao virus," which has wiped out 90 percent of the Earth's population in a twenty year pandemic (so much for the Kelly-Sales wager, who along with their families are presumably among the dead). "The Plague Years 1996-2020" was the photo-manipulated picture history of this science fiction pandemic that accompanied the interview with a "Dr. Amy-Jessica Castillo," who was the "Savior of the Plague Years." The plausible nightmare turns into fantasy, as the world is saved by computer programmers, genetic engineers, and graphic designers, who have marriages over the Internet from their sterile compounds in the diseased wasteland, interact in virtual reality simulation research projects, and have the good grace to now live on a radically depopulated planet. I recognized this post-apocalyptic fantasy from my own adolescence growing up in the shadow of the nuclear arms race. I am also reminded of the summer blockbuster movie Independence Day. Humans are the locust-like species that are consuming the planet, living here as if we were the extraterrestrial soon to leave. We are the fictional plague virus from WIRED. These fantasy projections are the mappings of our present dysfunctions, not some future scenarios.Distributed beings without a moral and political marketplace of constraints is a dangerous ideology. This 
+neglected discussion of morality follows from Kelly's unreflected ideological commitments. At first reading, Kelly seems to be advocating designing with nature and instituting non-hierarchical social structures, but the more central theme is actually a techno-utopic vision of benevolent laissez faire evolutionary and market forces. This techno-utopia is his central commitment; and it is strangely anthropocentric and misanthropic at the same time. Whether and which humans and nonhumans thrive or survive does not appear to be relevant in Kelly's analysis.
+Kelly's two kingdom theology of nature and the divine is apparent in his debate with Kirk Sales, when he 
+praises the Amish for their selective use of technology based on "an old-fashioned spiritual stance: their sureness of the reality of God and sin. . ."
+"We dominate nature at first so that we can survive, but beyond survival I believe the focus of technology, culture, and civilization is on human creativity, to allow humans to be creative, to allow every human born to have a chance to create, to write a book, to make a film, to make music, to love, to understand the universe. I think that's what technology is for. I think that's why we're here. It's not to worship nature" (WIRED 3.06, 213-215).
+Humans stand above nature, we do not belong to nature. Our meaning and purpose are not rooted in the Divine incarnation in the evolutionary process, but in Divine and human transcendence of nature.
+So Kelly's Out of Control book is aptly titled. In the late twentieth century at the end of the Cenozoic era, 
+we really are already out of control. Our neo-biological civilization is hooked on a consumer growth binge. Dependent on frequent injections of petroleum into the veins of our economy to sustain our habit. We need ever increasing sensory stimulation to make us feel alive. More becomes the solipsistic meaning and purpose of our lives in search of the next fix. The WIRED world, our world, is like an addict seeking more speed to compensate for ever deadening sensibilities.
+Kelly admits as much at one point, "Stripped of all secondary motives, all addictions are one: to make a 
+world of our own. I can't imagine anything more addictive then being a god" (233). Soon our computer game worlds will become artificial universes of sweet sensation and fantasy interactions, like the Holodeck in Star Trek series, itself a hollow Hollywood projection of our culture optimism and escapism. But a projection of a projection of a projection has a way of becoming a twisted reality. The Borg are here today. "Prepare to be assimilated, resistance is futile." Indeed, resistance in this Star Trek fatasy world requires that we embrace technology in order not to be "assimilated".
+This moment of recognition by Kelly, however, is not an occasion for a horrified cry for help. He does 
+not propose that we go slow, institute policies and programs to guard against misuses and abuse of technological and economic power, or protect disempowered social groups and ecosystems from technological dislocation and disruption. Instead, he postures himself as the voice of sanity in the face of Neo-Luddite extremism and attacks the Eco-Geek Dana Meadows for creating a bad computer simulation. It is the real world, not the SimWorld, that worries me.
+At this point I don't know what to make of a devout Christian who writes in celebration of "the headlong 
+high of substituting for Jehovah, and the genuine, overwhelming, sheer love for one's private world, [that] will suck in any and all who near it" (233). This is not an addict on the road to recovery, but an addict on a binge. There is "out of control" [this is fun] and then there is "out of control" [help!]. Missing in Kelly's Christianity is apparently an appreciation of our banal depths of human evil and finitude.
+Kelly graciously reviewed an earlier draft of this essay and responded in particular to this last comment 
+in an e-mail message:
+"I assert the reality of evil, even Evil. I asset the reality of what we call original sin - the tendency of people untrained to commit selfish acts, eventually leading to hateful acts. But part of the grand story I get about the biblical God is that no matter how greatly evil individuals are, or even groups of individuals -- and they can be horribly wicked -- their evil cannot overcome the collective good of individuals performing small acts of charity, mercy and love. Good will triumph over evil. . .
+"Is the goodness of God centralized in God, or has the Creator distributed the nature of 
+goodness? I believe the latter (without believing for a second that God is pantheistic)."
+Indeed, I also believe that goodness and evil, like God, are distributed. We must go on to theorize and act upon our understandings of this distributed goodness and evil. Evil and sin are also nonlinear, swarm-like complexities, that cannot be predicted, adequately understood, nor easily controlled. There are still patterns in our moral and spiritual lives that can guide us, just as there are patterns in complex creativity that Kelly theorizes about. So my "Out of Control" antithesis remains as a necessary proposition and a possible intervention, but by who, how?
+When will our addicted society hit bottom? How does a swarm system enter into recovery anyway? Like 
+the alcoholic on the mend, our planetary journey into sustainability will be a metaphysical and spiritual journey that begins with the recognition that we are indeed out of control [help!]. Here, we can perhaps invert Kelly's "Nine Laws of God" transforming them from simple guidelines for complex creativity into complicated constraints on our neo-biological civilization. It is time to move from prescription to description, from the "Is" to the "Ought," from natural philosophy to natural law.
+When queried, Kelly himself resisted this move to the ethical. He doesn't presume or want his "Nine 
+Laws of God" to replace "The Ten Commandments." His project is about god-like creativity, not god-like moral constraints on creativity. He says that he keeps his religion and science separate. But if humans are a Lamarckian wild-card in evolution, then we are the Naturalistic Fallacy incarnate. We rewrite the future structures of evolution and God's continuing creativity in our thoughts and deeds today.
+The irony is that in spite of Kelly's political, technological, economic, and religious commitments, his project offers a practical political and moral theory that undermines the WIRED laissez faire agenda. If 
+we really distribute power and control to the bottom; if we really maximize the fringes of the human and nonhuman world; if we really honor our errors instead of compulsively repeating them; if we really no longer pursue optimization measured in the mono-rationalization of currencies; if we really sought disequilibrium rather than what is actually business-as-usual in bright new colors; then we would have a rather different world indeed with better thinking, better technology, and better lives. When we turn Kelly's philosophy of nature into natural ethics, we are compelled to adopt truly conservative social and environmental policies that seek to conserve, preserve and enhance cultural and ecological diversity and systemic processes.
+***********
+And so on the sixth day, in Kelly's retelling of the Genesis story in a chapter entitled "God Games," Yahweh made the Earthling out of clay. "In some cybernetic way," writes Kelly, "the man was to be a simulacra of Yahweh." And so humans are created in the image of Yahweh, imbued with some modicum of free will and love, we are created to be co-creators.
+Will the advent of neo-biological evolution complete the cycle that Yahweh started? Is our playing god a 
+game or a blasphemy? Will our neo-biological civilization's revisiting of Genesis be "an act of true flattery" or "foolish audacity"? Kelly poses the problem, but avoids dwelling on the ambivalences. With his infectious optimism, Kelly disassociates from the problem. He won't pass judgment, except that it is hard work and a lot of fun playing god. We can take comfort though in knowing that our "models won't be perfect, either." Nor will we really be responsible because "these imperfect creations" of our neo-biological civilization will not really be "under our godly control."
+With God's creativity as our role-model, Kelly thinks we can cut ourselves some slack:
+"To be a god, at least to be a creative one, one must relinquish control and embrace 
+uncertainty. Absolute control is absolutely boring. To birth the new, the unexpected, the truly novel -- that is, to be genuinely surprised -- one must surrender the seat of power to the mob below.
+"The great irony of god games is that letting go is the only way to win" (257).
+Yes, yes, it just sounds so right. Humans are presented as beings of God's making and in God's image; 
+but it is traditionally considered idolatrous, if we mistake ourselves or our own handy work for God. Our god games are perilously close to the edge.
+Our challenge is now to really follow this mythic Yahweh, who becomes the Lord God by giving up 
+power, but not giving up responsibility. Yahweh is the primordial alcoholic in recovery, and we must follow in order to flourish. In the late twentieth century at the end of the Cenozoic era, our giving up the illusion of control [help!] and paradoxically shouldering the burdens of responsibility and ambiguity, may be the beginning of our moral redemption and creative liberations. So to Kelly's Nine Laws, we 
+might add a tenth -- Seek creative tension; embrace ambiguities. In other words, on the paradoxical journey of recovery into a neo-biological civilization, we can do the Nine Laws with Kelly and the Twelve Step with God as we understand God.
+*******
+I have posed a strong antithesis to Kelly's thesis, though I am clearly attracted to much of what he describes and prescribes for our Terra Nova. The synthesis is beyond either Kelly's optimism or my apparent pessimism. Indeed, both hope and fear can be swindlers. The synthesis is a real-time experiment with nature and culture, with science and religion, that promise to transform the world and ourselves, for better and for worse, in the coming years.
+As for the nature of complex creativity, our society's quest to incubate something from nothing, I am 
+slowly learning that it is some times better to simply stop, be silent, and listen expectantly.
+-end-
+1 Measuring fossil fuel consumption is actually deceptively difficult. One must convert oil, gas, coal, shale, or tar into an equivalent unit in terms of each other or BTU or Joules equivalents. In whatever conversion approach used, however, significant difference between these fossil fuels are either obscured or overstated. World Watch Institute created such a comparision in comparing World Population, World Economic Output, and Fossil Fuel Consumption in 1900, 1950, and 1986. The use of "billion tons of coal equivalent" is frankly as gross a measurement as quantifying Economic Output in "trillion 1980 dollars;" but the statistics give us some rough sense of proportion.
+ 1900  1950  1986
+ 1.6 Population (billions)  2.5 Population (billions)  5.0 Population (billions)
+ 0.6 Gross World 
+Product (trillion 1980 
+dollars) 2.9 Gross World 
+Product (trillion 1980 
+dollars) 13.1 Gross World 
+Product (trillion 1980 
+dollars)
+ 1 Fossil Fuel 
+Consumption (billion 
+tons of coal equivalent) 3 Fossil Fuel 
+Consumption (billion 
+tons of coal equivalent) 12 Fossil Fuel 
+Consumption (billion tons 
+of coal equivalent)
+Brown, Lester et. al., State of the World, Washington, D.C. : World Watch Institute, 1987, (5).
+-end-Kevin Kelly's Comments on this paper:
+"I, of course, greatly appreciate the attention my book garners in your work. And as you guessed I 
+disagree with some of your interpretations. But that is the license of authors... And one clarification. You write: 'Missing in Kelly's Christianity is apparently an appreciation of our banal depths of human evil and finitude.'"I assert the reality of evil, even Evil. I asset the reality of what we call original sin - the tendency of people untrained to commit selfish acts, eventually leading to hateful acts. But part of the grand story I get about the biblical God is that no matter how greatly evil individuals are, or even groups of individuals -- and they can be horribly wicked -- their evil cannot overcome the collective good of individuals performing small acts of charity, mercy and love. Good will triumph over evil. And his good triumps not in grand gestures (grand gestures are primarily those of ego, selfishness, and evil) but by the relentless daily grind of people (and artifacts such as institutions) making the hard choices of goodness. Part of the grind is to reject and condem evil of any size. Yet, just as there is no force on earth sufficient to eliminate the billion-fingered goodness of all life, nowhere is there a person sufficiently evil to triumph over the billion-fingered goodness of quietly loving people."Is the goodness of God centralized in God, or has the Creator distributed the nature of goodness? I believe the latter (without believing for a second that God is pantheistic)."
+Reader Comments:
+Please send your comments to grassie@voicenet.com for possible inclusion in a running dialogue to bu 
+posted here. Thank you!
+References
+Barbrook, Richard. "The Pinnochio Theory: A Review of Kevin Kelly's 'Out of Control'", 
+Hypermedia Research Centre, University of Westminster, England <
+http://www.hrc.wmin.ac.uk/hrc/manifesto/pinnochio.html>
+Keegan, Paul. "The Digerati," New York Times Magazine, May 21, 1995. 
+Kelly, Kevin, interview conducted by William Grassie, on June 6, 1996 in San Francisco.Kelly, Kevin. 1994. Out of Control: The New Biology of Machines, Social Systems, and the 
+Economic World. New York: Addison-Wesley. <
+http://www.adsolut.com> for an online 
+edition.
+Kelly, Kevin. E-mail received on 22 October 1996.Plunkett, John and Louis Rossetto, Mind Grenades: Manifestos from the Future. San 
+Francisco: Hotwired. 1996.
+Point Foundation. 1986. The Essential Whole Earth Catalog. New York: Doubleday.Point Foundation. CoEvolution Quarterly, No. 43, Fall 1984, 143.Portrak Seminar on "Post-Modern Ecology" in Santa Monica, CA, March 1995.WIRED Magazine 3.03 - 4.10.WIRED Press and Advertiser Kits, June 1996.WIRED Scenarios: The Future of the Future 1.01. Fall 1995.
+William Grassie is an assistant professor in the Intellectual Heritage Program at Temple University and a 
+visiting lecturer in the Department of Religious Studies at the University of Pennsylvania. His address is P.O. Box 586, Unionville, PA 19375. He may be reached on the Internet at <
+grassie@voicenet.com> or 
+<http://www.voicenet.com/~grassie>. All rights reserved. © 1996. Reproduction not allowed without 
+prior approval of the author.
+HOMEhome > NF reviews > Kevin Kelly 
+Kevin Kelly
+Search Web for Kevin Kelly    • Google search   • Alta Vista search 
+Books
+●     Out of Control. 1994
+●     New Rules for the New Economy. 1998
+Books : reviews
+Kevin Kelly. Out of Control: the new biology of 
+machines. 4th Estate. 1994
+Review: As machines become more 
+complex, they become more life-like. 
+More is different.
+We have the choice of a small number of large machines, or a large number of small machines: 'swarm' systems. The advantages of swarm systems is that they are adaptable, evolvable, resilient, boundless, full of novelty. But, they are non-optimal (they have multiple goals, and can only 'satifice', not optimise, all of them), non-controllable, non-predictable, non-understandable, non-immediate (they need to be 'grown', not 'switched on'): they are 
+out of control. 
+For jobs where supreme control is demanded, good old clockware is the way to go. Where supreme adaptability is required, out-of-control swarmware is what you want.
+Kelly describes swarm systems, and how we must give up our desire for control in order to reap their benefits. He does this in a dense book that covers artificial life, Biosphere II, complexity, distributed control, electronic money, emergent properties, evolution, feedback loops, hypertext authoring, navigating the Library of Babel, prairies, simulation, subsumption architectures, and more. He weaves a vast number of small threads into a lush, fascinating, mat of his view of the future: biological life and 
+machine life converging. 
+Often books written by journalists, although fascinating and fun to read, are simply 'biographies' of an 
+exciting area of research. But Kelly has a thesis, and uses interviews, quotes, and bits of history to build up and explore his thesis. This is no mere biography, this is synthesis. 
+It may be that any highly evolved form is beautiful.
+If you are the sort of person who underlines or highlights important passages [shudder], don't bother: you'll have to mark the entire text. 
+Rating: 2
+[ unmissable | 
+great stuff | worth reading | passes the time | waste of time | unfinishable ]
+reviewed 1 May 1996
+Kevin Kelly. New Rules for the New Economy. 4th Estate. 1998
+Review: The new economy of highly-connected 
+networks obeys its own set of economic rules, 
+many of which seem counter-intuitive. In this slim volume Kelly lays out the new order, and how to survive and prosper in it.
+Decentralisation, the non-linear growth of the value of networks, plenitude, gift economies, devolution, non-equilibrium working at the fluxing edge of chaos, and above all, the opportunities of waste, are important ideas here. Kelly weaves together some of the ideas from 
+Out of Control, applies them to the 
+network economy, and comes up with some fascinating seemingly counter-intuitive ideas. I particularly liked his attack on productivity:
+Efficiencies are for robots. Opportunities ... are for humans. ... The fact that a task is routine enough to be measured suggests that it is routine enough to go to the robots.
+This is an exhilarating ride through the opportunities of the network economies. The counter-intuitive way way these work means not everyone will realise the possibilities. But for those who do, there is an exciting, scary, and prosperous, time ahead.Rating: 3.5
+[ unmissable | great stuff | worth reading | passes the time | waste of time | unfinishable ]
+reviewed 29 October 2000
